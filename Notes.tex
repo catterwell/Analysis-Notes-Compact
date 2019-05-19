@@ -1637,15 +1637,15 @@ and suppose that $M_k \geq 0$ satisfies $\sum_{k=1}^\infty M_k < \infty$.
 If $|f_k(x)| \leq M_k$ for $k \in \mathbb{N}$ and $x \in E$, then
 $\sum_{k=1}^\infty f_k$ converges absolutely and uniformly on $E$.
 
-\textbf{Theorem 7.16*} \emph{Dirichlet's Test for Uniform Convergence} \\
-Let $E$ be a nonempty subset of $\mathbb{R}$ and suppose that
-$f_k, g_k : E \to \mathbb{R}, k \in \mathbb{N}$.
-If
-\[
-    \left| \sum_{k=1}^n f_k(x) \right| \leq M < \infty
-\]
-for $n \in \mathbb{N}$ and $x \in E$, and if $g_k \downarrow 0$ uniformly on $E$
-as $k \to \infty$, then $\sum_{k=1}^\infty f_k g_k$ converges uniformly on $E$.
+% \textbf{Theorem 7.16*} \emph{Dirichlet's Test for Uniform Convergence} \\
+% Let $E$ be a nonempty subset of $\mathbb{R}$ and suppose that
+% $f_k, g_k : E \to \mathbb{R}, k \in \mathbb{N}$.
+% If
+% \[
+%     \left| \sum_{k=1}^n f_k(x) \right| \leq M < \infty
+% \]
+% for $n \in \mathbb{N}$ and $x \in E$, and if $g_k \downarrow 0$ uniformly on $E$
+% as $k \to \infty$, then $\sum_{k=1}^\infty f_k g_k$ converges uniformly on $E$.
 
 \subsection{Power Series}
 
@@ -1755,6 +1755,11 @@ Let $X$ be a metric space.
     \item Every convergent sequence $X$ is bounded.
     \item Every convergent sequence in $X$ is Cauchy.
 \end{enumerate}
+
+\textbf{Remark 10.15} \\
+Let $x_n \in X$.
+Then $x_n \to a$ as $n \to \infty$ if and only if for every open set $V$ which
+contains $a$, there is an $N \in \mathbb{N}$ such that $n \geq N \implies x_n \in V$.
 
 \textbf{Theorem 10.16} \\
 Let $E \subseteq X$.
