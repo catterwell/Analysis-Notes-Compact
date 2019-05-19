@@ -99,8 +99,14 @@ INPUT /usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-OUTPUT Compact.out
+INPUT Compact.out
+INPUT Compact.out
+INPUT Compact.out
+INPUT Compact.out
 OUTPUT Compact.pdf
+INPUT ./Compact.out
+INPUT ./Compact.out
+OUTPUT Compact.out
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty

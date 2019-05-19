@@ -5,52 +5,101 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/8f20f8c1/
-Absolute Convergence	Compact.tex	/^\\subsection{Absolute Convergence}$/;"	u	section:Infinite Series of Real Numbers
-Alternating Series	Compact.tex	/^\\subsection{Alternating Series}$/;"	u	section:Infinite Series of Real Numbers
-Banach's Contraction Mapping Theorem	Compact.tex	/^\\subsection{Banach's Contraction Mapping Theorem}$/;"	u	section:Contraction Mapping \\& ODEs
-Bolzano-Weierstrass Theorem	Compact.tex	/^    \\subsection{Bolzano-Weierstrass Theorem}$/;"	u	section:Sequences in $\\mathbb{R}$
-Cauchy Sequences	Compact.tex	/^    \\subsection{Cauchy Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
-Compact Sets	Compact.tex	/^\\subsection{Compact Sets}$/;"	u	section:Metric Spaces
-Completeness Axiom	Compact.tex	/^    \\subsection{Completeness Axiom}$/;"	u	section:The Real Number System
-Connected Sets	Compact.tex	/^\\subsection{Connected Sets}$/;"	u	section:Metric Spaces
-Continuity	Compact.tex	/^    \\subsection{Continuity}$/;"	u	section:Functions on \\mathbb{R}
-Continuous Functions	Compact.tex	/^\\subsection{Continuous Functions}$/;"	u	section:Metric Spaces
-Contraction Mapping \\& ODEs	Compact.tex	/^\\section{Contraction Mapping \\& ODEs}$/;"	s
-Countable and Uncountable Sets	Compact.tex	/^    \\subsection{Countable and Uncountable Sets}$/;"	u	section:The Real Number System
-Differentiability Theorems	Compact.tex	/^    \\subsection{Differentiability Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
-Differentiability on \\mathbb{R}	Compact.tex	/^    \\section{Differentiability on \\mathbb{R}}$/;"	s
-Existence and uniqueness for solutions to ODEs	Compact.tex	/^\\subsection{Existence and uniqueness for solutions to ODEs}$/;"	u	section:Contraction Mapping \\& ODEs
-Functions on \\mathbb{R}	Compact.tex	/^    \\section{Functions on \\mathbb{R}}$/;"	s
-Fundamental Theorem of Calculus, and Practical Integration	Compact.tex	/^    \\subsection{Fundamental Theorem of Calculus, and Practical Integration}$/;"	u	section:Riemann Integration
-Infinite Series of Functions	Compact.tex	/^\\section{Infinite Series of Functions}$/;"	s
-Infinite Series of Real Numbers	Compact.tex	/^    \\section{Infinite Series of Real Numbers}$/;"	s
-Integrals and uniform limits of sequences and series of functions	Compact.tex	/^    \\subsection{Integrals and uniform limits of sequences and series of functions}$/;"	u	section:Riemann Integration
-Interior, Closure, and Boundary	Compact.tex	/^\\subsection{Interior, Closure, and Boundary}$/;"	u	section:Metric Spaces
-Introduction	Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Infinite Series of Real Numbers
-Introduction	Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Riemann Integration
-Introduction	Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:The Real Number System
-Introduction	Compact.tex	/^\\subsection{Introduction}$/;"	u	section:Metric Spaces
-Inverse Function Theorems	Compact.tex	/^    \\subsection{Inverse Function Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
-Inverse Functions and Images	Compact.tex	/^    \\subsection{Inverse Functions and Images}$/;"	u	section:The Real Number System
-Limit Theorems	Compact.tex	/^    \\subsection{Limit Theorems}$/;"	u	section:Sequences in $\\mathbb{R}$
-Limits Supremum and Infimum	Compact.tex	/^    \\subsection{Limits Supremum and Infimum}$/;"	u	section:Sequences in $\\mathbb{R}$
-Limits of Functions	Compact.tex	/^\\subsection{Limits of Functions}$/;"	u	section:Metric Spaces
-Limits of Sequences	Compact.tex	/^    \\subsection{Limits of Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
-Mathematical Induction	Compact.tex	/^    \\subsection{Mathematical Induction}$/;"	u	section:The Real Number System
-Mean Value Theorem	Compact.tex	/^    \\subsection{Mean Value Theorem}$/;"	u	section:Differentiability on \\mathbb{R}
-Metric Spaces	Compact.tex	/^\\section{Metric Spaces}$/;"	s
-One-Sided Limits and Limits at Infinity	Compact.tex	/^    \\subsection{One-Sided Limits and Limits at Infinity}$/;"	u	section:Functions on \\mathbb{R}
-Ordered Field Axioms	Compact.tex	/^    \\subsection{Ordered Field Axioms}$/;"	u	section:The Real Number System
-Power Series	Compact.tex	/^\\subsection{Power Series}$/;"	u	section:Infinite Series of Functions
-Riemann Integration	Compact.tex	/^    \\section{Riemann Integration}$/;"	s
-Riemann-integrable functions and their integrals	Compact.tex	/^    \\subsection{Riemann-integrable functions and their integrals}$/;"	u	section:Riemann Integration
-Sequences in $\\mathbb{R}$	Compact.tex	/^    \\section{Sequences in $\\mathbb{R}$}$/;"	s
-Series with Nonnegative Terms	Compact.tex	/^    \\subsection{Series with Nonnegative Terms}$/;"	u	section:Infinite Series of Real Numbers
-Step functions and their integrals	Compact.tex	/^    \\subsection{Step functions and their integrals}$/;"	u	section:Riemann Integration
-Taylor's Theorem and L'Hopital's Rule	Compact.tex	/^    \\subsection{Taylor's Theorem and L'Hopital's Rule}$/;"	u	section:Differentiability on \\mathbb{R}
-The Derivative	Compact.tex	/^    \\subsection{The Derivative}$/;"	u	section:Differentiability on \\mathbb{R}
-The Real Number System	Compact.tex	/^    \\section{The Real Number System}$/;"	s
-Two-Sided Limits	Compact.tex	/^    \\subsection{Two-Sided Limits}$/;"	u	section:Functions on \\mathbb{R}
-Uniform Continuity	Compact.tex	/^    \\subsection{Uniform Continuity}$/;"	u	section:Functions on \\mathbb{R}
-Uniform Convergence of Sequences	Compact.tex	/^\\subsection{Uniform Convergence of Sequences}$/;"	u	section:Infinite Series of Functions
-Uniform Convergence of Series	Compact.tex	/^\\subsection{Uniform Convergence of Series}$/;"	u	section:Infinite Series of Functions
+Absolute Convergence	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Absolute Convergence}$/;"	u	section:Infinite Series of Real Numbers
+Absolute Convergence	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Absolute Convergence}$/;"	u	section:Infinite Series of Real Numbers
+Alternating Series	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Alternating Series}$/;"	u	section:Infinite Series of Real Numbers
+Alternating Series	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Alternating Series}$/;"	u	section:Infinite Series of Real Numbers
+Banach's Contraction Mapping Theorem	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Banach's Contraction Mapping Theorem}$/;"	u	section:Contraction Mapping \\& ODEs
+Banach's Contraction Mapping Theorem	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Banach's Contraction Mapping Theorem}$/;"	u	section:Contraction Mapping \\& ODEs
+Bolzano-Weierstrass Theorem	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Bolzano-Weierstrass Theorem}$/;"	u	section:Sequences in $\\mathbb{R}$
+Bolzano-Weierstrass Theorem	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Bolzano-Weierstrass Theorem}$/;"	u	section:Sequences in $\\mathbb{R}$
+Cauchy Sequences	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Cauchy Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
+Cauchy Sequences	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Cauchy Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
+Compact Sets	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Compact Sets}$/;"	u	section:Metric Spaces
+Compact Sets	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Compact Sets}$/;"	u	section:Metric Spaces
+Completeness Axiom	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Completeness Axiom}$/;"	u	section:The Real Number System
+Completeness Axiom	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Completeness Axiom}$/;"	u	section:The Real Number System
+Connected Sets	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Connected Sets}$/;"	u	section:Metric Spaces
+Connected Sets	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Connected Sets}$/;"	u	section:Metric Spaces
+Continuity	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Continuity}$/;"	u	section:Functions on \\mathbb{R}
+Continuity	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Continuity}$/;"	u	section:Functions on \\mathbb{R}
+Continuous Functions	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Continuous Functions}$/;"	u	section:Metric Spaces
+Continuous Functions	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Continuous Functions}$/;"	u	section:Metric Spaces
+Contraction Mapping \\& ODEs	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\section{Contraction Mapping \\& ODEs}$/;"	s
+Contraction Mapping \\& ODEs	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\section{Contraction Mapping \\& ODEs}$/;"	s
+Countable and Uncountable Sets	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Countable and Uncountable Sets}$/;"	u	section:The Real Number System
+Countable and Uncountable Sets	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Countable and Uncountable Sets}$/;"	u	section:The Real Number System
+Differentiability Theorems	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Differentiability Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
+Differentiability Theorems	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Differentiability Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
+Differentiability on \\mathbb{R}	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\section{Differentiability on \\mathbb{R}}$/;"	s
+Differentiability on \\mathbb{R}	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\section{Differentiability on \\mathbb{R}}$/;"	s
+Existence and uniqueness for solutions to ODEs	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Existence and uniqueness for solutions to ODEs}$/;"	u	section:Contraction Mapping \\& ODEs
+Existence and uniqueness for solutions to ODEs	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Existence and uniqueness for solutions to ODEs}$/;"	u	section:Contraction Mapping \\& ODEs
+Functions on \\mathbb{R}	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\section{Functions on \\mathbb{R}}$/;"	s
+Functions on \\mathbb{R}	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\section{Functions on \\mathbb{R}}$/;"	s
+Fundamental Theorem of Calculus, and Practical Integration	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Fundamental Theorem of Calculus, and Practical Integration}$/;"	u	section:Riemann Integration
+Fundamental Theorem of Calculus, and Practical Integration	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Fundamental Theorem of Calculus, and Practical Integration}$/;"	u	section:Riemann Integration
+Infinite Series of Functions	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\section{Infinite Series of Functions}$/;"	s
+Infinite Series of Functions	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\section{Infinite Series of Functions}$/;"	s
+Infinite Series of Real Numbers	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\section{Infinite Series of Real Numbers}$/;"	s
+Infinite Series of Real Numbers	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\section{Infinite Series of Real Numbers}$/;"	s
+Integrals and uniform limits of sequences and series of functions	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Integrals and uniform limits of sequences and series of functions}$/;"	u	section:Riemann Integration
+Integrals and uniform limits of sequences and series of functions	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Integrals and uniform limits of sequences and series of functions}$/;"	u	section:Riemann Integration
+Interior, Closure, and Boundary	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Interior, Closure, and Boundary}$/;"	u	section:Metric Spaces
+Interior, Closure, and Boundary	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Interior, Closure, and Boundary}$/;"	u	section:Metric Spaces
+Introduction	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Infinite Series of Real Numbers
+Introduction	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Riemann Integration
+Introduction	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:The Real Number System
+Introduction	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Introduction}$/;"	u	section:Metric Spaces
+Introduction	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Infinite Series of Real Numbers
+Introduction	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Riemann Integration
+Introduction	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:The Real Number System
+Introduction	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Introduction}$/;"	u	section:Metric Spaces
+Inverse Function Theorems	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Inverse Function Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
+Inverse Function Theorems	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Inverse Function Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
+Inverse Functions and Images	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Inverse Functions and Images}$/;"	u	section:The Real Number System
+Inverse Functions and Images	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Inverse Functions and Images}$/;"	u	section:The Real Number System
+Limit Theorems	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Limit Theorems}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limit Theorems	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Limit Theorems}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limits Supremum and Infimum	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Limits Supremum and Infimum}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limits Supremum and Infimum	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Limits Supremum and Infimum}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limits of Functions	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Limits of Functions}$/;"	u	section:Metric Spaces
+Limits of Functions	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Limits of Functions}$/;"	u	section:Metric Spaces
+Limits of Sequences	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Limits of Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limits of Sequences	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Limits of Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
+Mathematical Induction	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Mathematical Induction}$/;"	u	section:The Real Number System
+Mathematical Induction	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Mathematical Induction}$/;"	u	section:The Real Number System
+Mean Value Theorem	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Mean Value Theorem}$/;"	u	section:Differentiability on \\mathbb{R}
+Mean Value Theorem	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Mean Value Theorem}$/;"	u	section:Differentiability on \\mathbb{R}
+Metric Spaces	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\section{Metric Spaces}$/;"	s
+Metric Spaces	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\section{Metric Spaces}$/;"	s
+One-Sided Limits and Limits at Infinity	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{One-Sided Limits and Limits at Infinity}$/;"	u	section:Functions on \\mathbb{R}
+One-Sided Limits and Limits at Infinity	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{One-Sided Limits and Limits at Infinity}$/;"	u	section:Functions on \\mathbb{R}
+Ordered Field Axioms	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Ordered Field Axioms}$/;"	u	section:The Real Number System
+Ordered Field Axioms	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Ordered Field Axioms}$/;"	u	section:The Real Number System
+Power Series	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Power Series}$/;"	u	section:Infinite Series of Functions
+Power Series	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Power Series}$/;"	u	section:Infinite Series of Functions
+Riemann Integration	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\section{Riemann Integration}$/;"	s
+Riemann Integration	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\section{Riemann Integration}$/;"	s
+Riemann-integrable functions and their integrals	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Riemann-integrable functions and their integrals}$/;"	u	section:Riemann Integration
+Riemann-integrable functions and their integrals	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Riemann-integrable functions and their integrals}$/;"	u	section:Riemann Integration
+Sequences in $\\mathbb{R}$	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\section{Sequences in $\\mathbb{R}$}$/;"	s
+Sequences in $\\mathbb{R}$	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\section{Sequences in $\\mathbb{R}$}$/;"	s
+Series with Nonnegative Terms	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Series with Nonnegative Terms}$/;"	u	section:Infinite Series of Real Numbers
+Series with Nonnegative Terms	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Series with Nonnegative Terms}$/;"	u	section:Infinite Series of Real Numbers
+Step functions and their integrals	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Step functions and their integrals}$/;"	u	section:Riemann Integration
+Step functions and their integrals	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Step functions and their integrals}$/;"	u	section:Riemann Integration
+Taylor's Theorem and L'Hopital's Rule	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Taylor's Theorem and L'Hopital's Rule}$/;"	u	section:Differentiability on \\mathbb{R}
+Taylor's Theorem and L'Hopital's Rule	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Taylor's Theorem and L'Hopital's Rule}$/;"	u	section:Differentiability on \\mathbb{R}
+The Derivative	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{The Derivative}$/;"	u	section:Differentiability on \\mathbb{R}
+The Derivative	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{The Derivative}$/;"	u	section:Differentiability on \\mathbb{R}
+The Real Number System	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\section{The Real Number System}$/;"	s
+The Real Number System	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\section{The Real Number System}$/;"	s
+Two-Sided Limits	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Two-Sided Limits}$/;"	u	section:Functions on \\mathbb{R}
+Two-Sided Limits	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Two-Sided Limits}$/;"	u	section:Functions on \\mathbb{R}
+Uniform Continuity	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^    \\subsection{Uniform Continuity}$/;"	u	section:Functions on \\mathbb{R}
+Uniform Continuity	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^    \\subsection{Uniform Continuity}$/;"	u	section:Functions on \\mathbb{R}
+Uniform Convergence of Sequences	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Uniform Convergence of Sequences}$/;"	u	section:Infinite Series of Functions
+Uniform Convergence of Sequences	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Uniform Convergence of Sequences}$/;"	u	section:Infinite Series of Functions
+Uniform Convergence of Series	/home/anthony/Main/Documents/University/Semester/Analysis/Compact/Compact.tex	/^\\subsection{Uniform Convergence of Series}$/;"	u	section:Infinite Series of Functions
+Uniform Convergence of Series	/mnt/Main/MEGA/University/UG3/Semester1/Analysis/Compact/Compact.tex	/^\\subsection{Uniform Convergence of Series}$/;"	u	section:Infinite Series of Functions

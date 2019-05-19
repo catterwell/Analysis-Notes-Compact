@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1558282367 "Compact.tex" "Compact.pdf" "Compact" 1558282367
+["pdflatex"] 1558292902 "Compact.tex" "Compact.pdf" "Compact" 1558292902
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1550406775 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1550406775 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -85,9 +85,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1550406775 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1556224818 3106252 d5255ed7fd6ec6ea7699581e9a54cb46 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1556224812 7919196 b371388b07e14e1a1e5d37107e281012 ""
-  "Compact.aux" 1558282367 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Compact.out" 0 -1 0 ""
-  "Compact.tex" 1558282268 99202 3bdc56056e9c13baa04124a5e7e64ca1 ""
+  "Compact.aux" 1558282378 7045 0d210a7c9799d7e1132c854f6400a9f3 ""
+  "Compact.out" 1558282378 3502 601328fd290920da1396f0bfcbe9e2c0 ""
+  "Compact.tex" 1558292902 99234 77ed979210b96835783e7640b467c015 ""
   "pics/001.png" 1558228595 35165 3f606bbe410c45f1d0f924d2c6043f92 ""
   "pics/002.png" 1558228611 27339 e75cc063f0c0e1560a4de0d8ea1b7b48 ""
   "pics/003.png" 1558228622 48155 a561c13642d37e756909ba978729fdc6 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.25)  19 MAY 2019 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.25)  19 MAY 2019 20:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -412,6 +412,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
 LaTeX Info: Redefining \nameref on input line 19.
+ (./Compact.out) (./Compact.out)
 \@outlinefile=\write3
 \openout3 = `Compact.out'.
 
@@ -619,84 +620,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Compact.tex:1980: Undefined control sequence.
-<recently read> \del 
-                     
-l.1980     \item $\del
-                       (A \cup B) \subseteq \del A \cup \del B$, \quad and \...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1980: Undefined control sequence.
-l.1980     \item $\del (A \cup B) \subseteq \del
-                                                 A \cup \del B$, \quad and \...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1980: Undefined control sequence.
-l.1980 ...el (A \cup B) \subseteq \del A \cup \del
-                                                   B$, \quad and \quad
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1981: Undefined control sequence.
-<recently read> \del 
-                     
-l.1981         $\del
-                     (A \cap B) \subseteq (A \cap \del B) \cup (B \cap \del ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1981: Undefined control sequence.
-l.1981 ... $\del (A \cap B) \subseteq (A \cap \del
-                                                   B) \cup (B \cap \del A) \cup
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1981: Undefined control sequence.
-l.1981 ...bseteq (A \cap \del B) \cup (B \cap \del
-                                                   A) \cup
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1982: Undefined control sequence.
-l.1982         (\del
-                     A \cap \del B)$.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Compact.tex:1982: Undefined control sequence.
-l.1982         (\del A \cap \del
-                                 B)$.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 [11] [12]
-<pics/001.png, id=280, 730.73pt x 149.55875pt>
+<pics/001.png, id=428, 730.73pt x 149.55875pt>
 
 ./Compact.tex:2189: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -731,7 +656,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2189--2189
 [][]  
  []
 
-<pics/002.png, id=281, 730.73pt x 96.36pt>
+<pics/002.png, id=429, 730.73pt x 96.36pt>
 ./Compact.tex:2190: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -765,7 +690,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2190--2190
 [][]  
  []
 
-<pics/003.png, id=282, 730.73pt x 176.66pt>
+<pics/003.png, id=430, 730.73pt x 176.66pt>
 ./Compact.tex:2191: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -799,7 +724,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2191--2191
 [][]  
  []
 
-<pics/004.png, id=283, 730.73pt x 204.765pt>
+<pics/004.png, id=431, 730.73pt x 204.765pt>
 ./Compact.tex:2192: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -833,7 +758,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2192--2192
 [][]  
  []
 
-<pics/005.png, id=284, 730.73pt x 127.47626pt>
+<pics/005.png, id=432, 730.73pt x 127.47626pt>
 ./Compact.tex:2193: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -867,7 +792,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2193--2193
 [][]  
  []
 
-<pics/006.png, id=285, 730.73pt x 203.76125pt>
+<pics/006.png, id=433, 730.73pt x 203.76125pt>
 ./Compact.tex:2194: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -901,7 +826,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2194--2194
 [][]  
  []
 
-<pics/007.png, id=286, 699.61375pt x 144.54pt>
+<pics/007.png, id=434, 699.61375pt x 144.54pt>
 ./Compact.tex:2195: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -935,7 +860,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2195--2195
 [][]  
  []
 
-<pics/008.png, id=287, 699.61375pt x 196.735pt>
+<pics/008.png, id=435, 699.61375pt x 196.735pt>
 ./Compact.tex:2196: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -969,7 +894,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2196--2196
 [][]  
  []
 
-<pics/009.png, id=288, 699.61375pt x 84.315pt>
+<pics/009.png, id=436, 699.61375pt x 84.315pt>
 ./Compact.tex:2197: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1003,7 +928,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2197--2197
 [][]  
  []
 
-<pics/010.png, id=289, 699.61375pt x 174.6525pt>
+<pics/010.png, id=437, 699.61375pt x 174.6525pt>
 ./Compact.tex:2198: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1037,7 +962,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2198--2198
 [][]  
  []
 
-<pics/011.png, id=290, 699.61375pt x 222.8325pt>
+<pics/011.png, id=438, 699.61375pt x 222.8325pt>
 ./Compact.tex:2199: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1071,7 +996,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2199--2199
 [][]  
  []
 
-<pics/012.png, id=291, 699.61375pt x 163.61125pt>
+<pics/012.png, id=439, 699.61375pt x 163.61125pt>
 ./Compact.tex:2200: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1105,7 +1030,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2200--2200
 [][]  
  []
 
-<pics/013.png, id=292, 701.62125pt x 186.6975pt>
+<pics/013.png, id=440, 701.62125pt x 186.6975pt>
 ./Compact.tex:2201: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1139,7 +1064,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2201--2201
 [][]  
  []
 
-<pics/014.png, id=293, 701.62125pt x 195.73125pt>
+<pics/014.png, id=441, 701.62125pt x 195.73125pt>
 ./Compact.tex:2202: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1173,7 +1098,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2202--2202
 [][]  
  []
 
-<pics/015.png, id=294, 701.62125pt x 196.735pt>
+<pics/015.png, id=442, 701.62125pt x 196.735pt>
 ./Compact.tex:2203: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1207,7 +1132,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2203--2203
 [][]  
  []
 
-<pics/016.png, id=295, 701.62125pt x 212.795pt>
+<pics/016.png, id=443, 701.62125pt x 212.795pt>
 ./Compact.tex:2204: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1241,7 +1166,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2204--2204
 [][]  
  []
 
-<pics/017.png, id=296, 725.71124pt x 124.465pt>
+<pics/017.png, id=444, 725.71124pt x 124.465pt>
 ./Compact.tex:2205: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1275,7 +1200,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2205--2205
 [][]  
  []
 
-<pics/018.png, id=297, 725.71124pt x 138.5175pt>
+<pics/018.png, id=445, 725.71124pt x 138.5175pt>
 ./Compact.tex:2206: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1309,7 +1234,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2206--2206
 [][]  
  []
 
-<pics/019.png, id=298, 725.71124pt x 237.88875pt>
+<pics/019.png, id=446, 725.71124pt x 237.88875pt>
 ./Compact.tex:2207: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1343,7 +1268,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2207--2207
 [][]  
  []
 
-<pics/020.png, id=299, 725.71124pt x 203.76125pt>
+<pics/020.png, id=447, 725.71124pt x 203.76125pt>
 ./Compact.tex:2208: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1377,7 +1302,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2208--2208
 [][]  
  []
 
-<pics/021.png, id=300, 725.71124pt x 195.73125pt>
+<pics/021.png, id=448, 725.71124pt x 195.73125pt>
 ./Compact.tex:2209: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1411,7 +1336,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2209--2209
 [][]  
  []
 
-<pics/022.png, id=301, 723.70375pt x 127.47626pt>
+<pics/022.png, id=449, 723.70375pt x 127.47626pt>
 ./Compact.tex:2210: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1445,7 +1370,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2210--2210
 [][]  
  []
 
-<pics/023.png, id=302, 723.70375pt x 151.56625pt>
+<pics/023.png, id=450, 723.70375pt x 151.56625pt>
 ./Compact.tex:2211: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1479,7 +1404,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2211--2211
 [][]  
  []
 
-<pics/024.png, id=303, 723.70375pt x 205.76875pt>
+<pics/024.png, id=451, 723.70375pt x 205.76875pt>
 ./Compact.tex:2212: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1513,7 +1438,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2212--2212
 [][]  
  []
 
-<pics/025.png, id=304, 723.70375pt x 188.705pt>
+<pics/025.png, id=452, 723.70375pt x 188.705pt>
 ./Compact.tex:2213: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1547,7 +1472,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2213--2213
 [][]  
  []
 
-<pics/026.png, id=305, 723.70375pt x 136.51pt>
+<pics/026.png, id=453, 723.70375pt x 136.51pt>
 ./Compact.tex:2214: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1581,7 +1506,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2214--2214
 [][]  
  []
 
-<pics/027.png, id=306, 723.70375pt x 180.675pt>
+<pics/027.png, id=454, 723.70375pt x 180.675pt>
 ./Compact.tex:2215: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1615,7 +1540,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2215--2215
 [][]  
  []
 
-<pics/028.png, id=307, 723.70375pt x 132.495pt>
+<pics/028.png, id=455, 723.70375pt x 132.495pt>
 ./Compact.tex:2216: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1650,7 +1575,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2216--2216
  []
 
 [13 <./pics/001.png> <./pics/002.png> <./pics/003.png> <./pics/004.png> <./pics/005.png> <./pics/006.png> <./pics/007.png> <./pics/008.png> <./pics/009.png> <./pics/010.png> <./pics/011.png> <./pics/012.png> <./pics/013.png> <./pics/014.png> <./pics/015.png> <./pics/016.png> <./pics/017.png> <./pics/018.png> <./pics/019.png> <./pics/020.png> <./pics/021.png> <./pics/022.png> <./pics/023.png> <./pics/024.png> <./pics/025.png>]
-<pics/029.png, id=313, 723.70375pt x 211.79124pt>
+<pics/029.png, id=461, 723.70375pt x 211.79124pt>
 
 ./Compact.tex:2217: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -1685,7 +1610,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2217--2217
 [][]  
  []
 
-<pics/030.png, id=314, 723.70375pt x 86.3225pt>
+<pics/030.png, id=462, 723.70375pt x 86.3225pt>
 ./Compact.tex:2218: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1719,7 +1644,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2218--2218
 [][]  
  []
 
-<pics/031.png, id=315, 723.70375pt x 135.50626pt>
+<pics/031.png, id=463, 723.70375pt x 135.50626pt>
 ./Compact.tex:2219: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1753,7 +1678,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2219--2219
 [][]  
  []
 
-<pics/032.png, id=316, 723.70375pt x 200.75pt>
+<pics/032.png, id=464, 723.70375pt x 200.75pt>
 ./Compact.tex:2220: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1787,7 +1712,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2220--2220
 [][]  
  []
 
-<pics/033.png, id=317, 723.70375pt x 283.0575pt>
+<pics/033.png, id=465, 723.70375pt x 283.0575pt>
 ./Compact.tex:2221: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1821,7 +1746,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2221--2221
 [][]  
  []
 
-<pics/034.png, id=318, 723.70375pt x 205.76875pt>
+<pics/034.png, id=466, 723.70375pt x 205.76875pt>
 ./Compact.tex:2222: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1855,7 +1780,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2222--2222
 [][]  
  []
 
-<pics/035.png, id=319, 723.70375pt x 239.89626pt>
+<pics/035.png, id=467, 723.70375pt x 239.89626pt>
 ./Compact.tex:2223: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1889,7 +1814,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2223--2223
 [][]  
  []
 
-<pics/036.png, id=320, 723.70375pt x 148.555pt>
+<pics/036.png, id=468, 723.70375pt x 148.555pt>
 ./Compact.tex:2224: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1923,7 +1848,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2224--2224
 [][]  
  []
 
-<pics/037.png, id=321, 723.70375pt x 179.67125pt>
+<pics/037.png, id=469, 723.70375pt x 179.67125pt>
 ./Compact.tex:2225: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1957,7 +1882,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2225--2225
 [][]  
  []
 
-<pics/038.png, id=322, 723.70375pt x 237.88875pt>
+<pics/038.png, id=470, 723.70375pt x 237.88875pt>
 ./Compact.tex:2226: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -1991,7 +1916,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2226--2226
 [][]  
  []
 
-<pics/039.png, id=323, 723.70375pt x 263.98625pt>
+<pics/039.png, id=471, 723.70375pt x 263.98625pt>
 ./Compact.tex:2227: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2025,7 +1950,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2227--2227
 [][]  
  []
 
-<pics/040.png, id=324, 723.70375pt x 177.66376pt>
+<pics/040.png, id=472, 723.70375pt x 177.66376pt>
 ./Compact.tex:2228: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2059,7 +1984,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2228--2228
 [][]  
  []
 
-<pics/041.png, id=325, 723.70375pt x 172.645pt>
+<pics/041.png, id=473, 723.70375pt x 172.645pt>
 ./Compact.tex:2229: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2093,7 +2018,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2229--2229
 [][]  
  []
 
-<pics/042.png, id=326, 723.70375pt x 141.52875pt>
+<pics/042.png, id=474, 723.70375pt x 141.52875pt>
 ./Compact.tex:2230: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2127,7 +2052,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2230--2230
 [][]  
  []
 
-<pics/043.png, id=327, 723.70375pt x 138.5175pt>
+<pics/043.png, id=475, 723.70375pt x 138.5175pt>
 ./Compact.tex:2231: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2161,7 +2086,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2231--2231
 [][]  
  []
 
-<pics/044.png, id=328, 723.70375pt x 147.55125pt>
+<pics/044.png, id=476, 723.70375pt x 147.55125pt>
 ./Compact.tex:2232: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2195,7 +2120,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2232--2232
 [][]  
  []
 
-<pics/045.png, id=329, 723.70375pt x 194.7275pt>
+<pics/045.png, id=477, 723.70375pt x 194.7275pt>
 ./Compact.tex:2233: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2229,7 +2154,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2233--2233
 [][]  
  []
 
-<pics/046.png, id=330, 723.70375pt x 215.80624pt>
+<pics/046.png, id=478, 723.70375pt x 215.80624pt>
 ./Compact.tex:2234: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2263,7 +2188,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2234--2234
 [][]  
  []
 
-<pics/047.png, id=331, 723.70375pt x 158.5925pt>
+<pics/047.png, id=479, 723.70375pt x 158.5925pt>
 ./Compact.tex:2235: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2297,7 +2222,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2235--2235
 [][]  
  []
 
-<pics/048.png, id=332, 723.70375pt x 159.59625pt>
+<pics/048.png, id=480, 723.70375pt x 159.59625pt>
 ./Compact.tex:2236: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2331,7 +2256,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2236--2236
 [][]  
  []
 
-<pics/049.png, id=333, 723.70375pt x 166.6225pt>
+<pics/049.png, id=481, 723.70375pt x 166.6225pt>
 ./Compact.tex:2237: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2365,7 +2290,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2237--2237
 [][]  
  []
 
-<pics/050.png, id=334, 723.70375pt x 182.6825pt>
+<pics/050.png, id=482, 723.70375pt x 182.6825pt>
 ./Compact.tex:2238: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2399,7 +2324,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2238--2238
 [][]  
  []
 
-<pics/051.png, id=335, 723.70375pt x 175.65625pt>
+<pics/051.png, id=483, 723.70375pt x 175.65625pt>
 ./Compact.tex:2239: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2433,7 +2358,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2239--2239
 [][]  
  []
 
-<pics/052.png, id=336, 723.70375pt x 146.5475pt>
+<pics/052.png, id=484, 723.70375pt x 146.5475pt>
 ./Compact.tex:2240: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2468,7 +2393,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2240--2240
  []
 
 [14 <./pics/026.png> <./pics/027.png> <./pics/028.png> <./pics/029.png> <./pics/030.png> <./pics/031.png> <./pics/032.png> <./pics/033.png> <./pics/034.png> <./pics/035.png> <./pics/036.png> <./pics/037.png> <./pics/038.png> <./pics/039.png> <./pics/040.png> <./pics/041.png> <./pics/042.png> <./pics/043.png> <./pics/044.png> <./pics/045.png> <./pics/046.png> <./pics/047.png> <./pics/048.png> <./pics/049.png>]
-<pics/053.png, id=341, 723.70375pt x 125.46875pt>
+<pics/053.png, id=489, 723.70375pt x 125.46875pt>
 
 ./Compact.tex:2241: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -2503,7 +2428,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2241--2241
 [][]  
  []
 
-<pics/054.png, id=342, 723.70375pt x 169.63374pt>
+<pics/054.png, id=490, 723.70375pt x 169.63374pt>
 ./Compact.tex:2242: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2537,7 +2462,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2242--2242
 [][]  
  []
 
-<pics/055.png, id=343, 723.70375pt x 98.3675pt>
+<pics/055.png, id=491, 723.70375pt x 98.3675pt>
 ./Compact.tex:2243: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2571,7 +2496,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2243--2243
 [][]  
  []
 
-<pics/056.png, id=344, 723.70375pt x 246.9225pt>
+<pics/056.png, id=492, 723.70375pt x 246.9225pt>
 ./Compact.tex:2244: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2605,7 +2530,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2244--2244
 [][]  
  []
 
-<pics/057.png, id=345, 723.70375pt x 163.61125pt>
+<pics/057.png, id=493, 723.70375pt x 163.61125pt>
 ./Compact.tex:2245: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2639,7 +2564,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2245--2245
 [][]  
  []
 
-<pics/058.png, id=346, 723.70375pt x 106.3975pt>
+<pics/058.png, id=494, 723.70375pt x 106.3975pt>
 ./Compact.tex:2246: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2673,7 +2598,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2246--2246
 [][]  
  []
 
-<pics/059.png, id=347, 723.70375pt x 123.46124pt>
+<pics/059.png, id=495, 723.70375pt x 123.46124pt>
 ./Compact.tex:2247: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2707,7 +2632,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2247--2247
 [][]  
  []
 
-<pics/060.png, id=348, 723.70375pt x 175.65625pt>
+<pics/060.png, id=496, 723.70375pt x 175.65625pt>
 ./Compact.tex:2248: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2741,7 +2666,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2248--2248
 [][]  
  []
 
-<pics/061.png, id=349, 723.70375pt x 180.675pt>
+<pics/061.png, id=497, 723.70375pt x 180.675pt>
 ./Compact.tex:2249: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2775,7 +2700,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2249--2249
 [][]  
  []
 
-<pics/062.png, id=350, 736.7525pt x 160.6pt>
+<pics/062.png, id=498, 736.7525pt x 160.6pt>
 ./Compact.tex:2250: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2809,7 +2734,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2250--2250
 [][]  
  []
 
-<pics/063.png, id=351, 736.7525pt x 161.60374pt>
+<pics/063.png, id=499, 736.7525pt x 161.60374pt>
 ./Compact.tex:2251: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2843,7 +2768,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2251--2251
 [][]  
  []
 
-<pics/064.png, id=352, 736.7525pt x 136.51pt>
+<pics/064.png, id=500, 736.7525pt x 136.51pt>
 ./Compact.tex:2252: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2877,7 +2802,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2252--2252
 [][]  
  []
 
-<pics/065.png, id=353, 736.7525pt x 193.72375pt>
+<pics/065.png, id=501, 736.7525pt x 193.72375pt>
 ./Compact.tex:2253: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2911,7 +2836,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2253--2253
 [][]  
  []
 
-<pics/066.png, id=354, 736.7525pt x 174.6525pt>
+<pics/066.png, id=502, 736.7525pt x 174.6525pt>
 ./Compact.tex:2254: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2945,7 +2870,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2254--2254
 [][]  
  []
 
-<pics/067.png, id=355, 736.7525pt x 147.55125pt>
+<pics/067.png, id=503, 736.7525pt x 147.55125pt>
 ./Compact.tex:2255: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -2979,7 +2904,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2255--2255
 [][]  
  []
 
-<pics/068.png, id=356, 723.70375pt x 206.7725pt>
+<pics/068.png, id=504, 723.70375pt x 206.7725pt>
 ./Compact.tex:2256: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3013,7 +2938,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2256--2256
 [][]  
  []
 
-<pics/069.png, id=357, 723.70375pt x 113.42375pt>
+<pics/069.png, id=505, 723.70375pt x 113.42375pt>
 ./Compact.tex:2257: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3047,7 +2972,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2257--2257
 [][]  
  []
 
-<pics/070.png, id=358, 723.70375pt x 179.67125pt>
+<pics/070.png, id=506, 723.70375pt x 179.67125pt>
 ./Compact.tex:2258: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3081,7 +3006,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2258--2258
 [][]  
  []
 
-<pics/071.png, id=359, 723.70375pt x 112.42pt>
+<pics/071.png, id=507, 723.70375pt x 112.42pt>
 ./Compact.tex:2259: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3115,7 +3040,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2259--2259
 [][]  
  []
 
-<pics/072.png, id=360, 723.70375pt x 134.5025pt>
+<pics/072.png, id=508, 723.70375pt x 134.5025pt>
 ./Compact.tex:2260: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3149,7 +3074,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2260--2260
 [][]  
  []
 
-<pics/073.png, id=361, 723.70375pt x 236.885pt>
+<pics/073.png, id=509, 723.70375pt x 236.885pt>
 ./Compact.tex:2261: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3183,7 +3108,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2261--2261
 [][]  
  []
 
-<pics/074.png, id=362, 723.70375pt x 226.8475pt>
+<pics/074.png, id=510, 723.70375pt x 226.8475pt>
 ./Compact.tex:2262: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3217,7 +3142,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2262--2262
 [][]  
  []
 
-<pics/075.png, id=363, 723.70375pt x 171.64125pt>
+<pics/075.png, id=511, 723.70375pt x 171.64125pt>
 ./Compact.tex:2263: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3251,7 +3176,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2263--2263
 [][]  
  []
 
-<pics/076.png, id=364, 723.70375pt x 147.55125pt>
+<pics/076.png, id=512, 723.70375pt x 147.55125pt>
 ./Compact.tex:2264: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3285,7 +3210,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2264--2264
 [][]  
  []
 
-<pics/077.png, id=365, 723.70375pt x 187.70125pt>
+<pics/077.png, id=513, 723.70375pt x 187.70125pt>
 ./Compact.tex:2265: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3319,7 +3244,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2265--2265
 [][]  
  []
 
-<pics/078.png, id=366, 723.70375pt x 132.495pt>
+<pics/078.png, id=514, 723.70375pt x 132.495pt>
 ./Compact.tex:2266: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3354,7 +3279,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2266--2266
  []
 
 [15 <./pics/050.png> <./pics/051.png> <./pics/052.png> <./pics/053.png> <./pics/054.png> <./pics/055.png> <./pics/056.png> <./pics/057.png> <./pics/058.png> <./pics/059.png> <./pics/060.png> <./pics/061.png> <./pics/062.png> <./pics/063.png> <./pics/064.png> <./pics/065.png> <./pics/066.png> <./pics/067.png> <./pics/068.png> <./pics/069.png> <./pics/070.png> <./pics/071.png> <./pics/072.png> <./pics/073.png> <./pics/074.png> <./pics/075.png> <./pics/076.png>]
-<pics/079.png, id=371, 723.70375pt x 116.435pt>
+<pics/079.png, id=519, 723.70375pt x 116.435pt>
 
 ./Compact.tex:2267: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -3389,7 +3314,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2267--2267
 [][]  
  []
 
-<pics/080.png, id=372, 723.70375pt x 151.56625pt>
+<pics/080.png, id=520, 723.70375pt x 151.56625pt>
 ./Compact.tex:2268: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3423,7 +3348,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2268--2268
 [][]  
  []
 
-<pics/081.png, id=373, 723.70375pt x 107.40125pt>
+<pics/081.png, id=521, 723.70375pt x 107.40125pt>
 ./Compact.tex:2269: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3457,7 +3382,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2269--2269
 [][]  
  []
 
-<pics/082.png, id=374, 723.70375pt x 120.45pt>
+<pics/082.png, id=522, 723.70375pt x 120.45pt>
 ./Compact.tex:2270: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3491,7 +3416,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2270--2270
 [][]  
  []
 
-<pics/083.png, id=375, 723.70375pt x 97.36375pt>
+<pics/083.png, id=523, 723.70375pt x 97.36375pt>
 ./Compact.tex:2271: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3525,7 +3450,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2271--2271
 [][]  
  []
 
-<pics/084.png, id=376, 723.70375pt x 132.495pt>
+<pics/084.png, id=524, 723.70375pt x 132.495pt>
 ./Compact.tex:2272: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3559,7 +3484,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2272--2272
 [][]  
  []
 
-<pics/085.png, id=377, 723.70375pt x 147.55125pt>
+<pics/085.png, id=525, 723.70375pt x 147.55125pt>
 ./Compact.tex:2273: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3593,7 +3518,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2273--2273
 [][]  
  []
 
-<pics/086.png, id=378, 723.70375pt x 194.7275pt>
+<pics/086.png, id=526, 723.70375pt x 194.7275pt>
 ./Compact.tex:2274: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3627,7 +3552,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2274--2274
 [][]  
  []
 
-<pics/087.png, id=379, 723.70375pt x 149.55875pt>
+<pics/087.png, id=527, 723.70375pt x 149.55875pt>
 ./Compact.tex:2275: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3661,7 +3586,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2275--2275
 [][]  
  []
 
-<pics/088.png, id=380, 723.70375pt x 131.49126pt>
+<pics/088.png, id=528, 723.70375pt x 131.49126pt>
 ./Compact.tex:2276: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3695,7 +3620,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2276--2276
 [][]  
  []
 
-<pics/089.png, id=381, 723.70375pt x 94.3525pt>
+<pics/089.png, id=529, 723.70375pt x 94.3525pt>
 ./Compact.tex:2277: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3729,7 +3654,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2277--2277
 [][]  
  []
 
-<pics/090.png, id=382, 723.70375pt x 149.55875pt>
+<pics/090.png, id=530, 723.70375pt x 149.55875pt>
 ./Compact.tex:2278: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3763,7 +3688,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2278--2278
 [][]  
  []
 
-<pics/091.png, id=383, 723.70375pt x 149.55875pt>
+<pics/091.png, id=531, 723.70375pt x 149.55875pt>
 ./Compact.tex:2279: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3797,7 +3722,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2279--2279
 [][]  
  []
 
-<pics/092.png, id=384, 723.70375pt x 132.495pt>
+<pics/092.png, id=532, 723.70375pt x 132.495pt>
 ./Compact.tex:2280: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3831,7 +3756,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2280--2280
 [][]  
  []
 
-<pics/093.png, id=385, 723.70375pt x 127.47626pt>
+<pics/093.png, id=533, 723.70375pt x 127.47626pt>
 ./Compact.tex:2281: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3865,7 +3790,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2281--2281
 [][]  
  []
 
-<pics/094.png, id=386, 723.70375pt x 195.73125pt>
+<pics/094.png, id=534, 723.70375pt x 195.73125pt>
 ./Compact.tex:2282: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3899,7 +3824,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2282--2282
 [][]  
  []
 
-<pics/095.png, id=387, 723.70375pt x 199.74625pt>
+<pics/095.png, id=535, 723.70375pt x 199.74625pt>
 ./Compact.tex:2283: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3933,7 +3858,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2283--2283
 [][]  
  []
 
-<pics/096.png, id=388, 723.70375pt x 191.71625pt>
+<pics/096.png, id=536, 723.70375pt x 191.71625pt>
 ./Compact.tex:2284: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -3967,7 +3892,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2284--2284
 [][]  
  []
 
-<pics/097.png, id=389, 723.70375pt x 174.6525pt>
+<pics/097.png, id=537, 723.70375pt x 174.6525pt>
 ./Compact.tex:2285: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4001,7 +3926,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2285--2285
 [][]  
  []
 
-<pics/098.png, id=390, 723.70375pt x 140.525pt>
+<pics/098.png, id=538, 723.70375pt x 140.525pt>
 ./Compact.tex:2286: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4035,7 +3960,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2286--2286
 [][]  
  []
 
-<pics/099.png, id=391, 723.70375pt x 182.6825pt>
+<pics/099.png, id=539, 723.70375pt x 182.6825pt>
 ./Compact.tex:2287: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4069,7 +3994,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2287--2287
 [][]  
  []
 
-<pics/100.png, id=392, 723.70375pt x 108.405pt>
+<pics/100.png, id=540, 723.70375pt x 108.405pt>
 ./Compact.tex:2288: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4103,7 +4028,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2288--2288
 [][]  
  []
 
-<pics/101.png, id=393, 723.70375pt x 189.70876pt>
+<pics/101.png, id=541, 723.70375pt x 189.70876pt>
 ./Compact.tex:2289: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4137,7 +4062,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2289--2289
 [][]  
  []
 
-<pics/102.png, id=394, 723.70375pt x 189.70876pt>
+<pics/102.png, id=542, 723.70375pt x 189.70876pt>
 ./Compact.tex:2290: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4171,7 +4096,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2290--2290
 [][]  
  []
 
-<pics/103.png, id=395, 723.70375pt x 121.45375pt>
+<pics/103.png, id=543, 723.70375pt x 121.45375pt>
 ./Compact.tex:2291: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4205,7 +4130,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2291--2291
 [][]  
  []
 
-<pics/104.png, id=396, 723.70375pt x 112.42pt>
+<pics/104.png, id=544, 723.70375pt x 112.42pt>
 ./Compact.tex:2292: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4239,7 +4164,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2292--2292
 [][]  
  []
 
-<pics/105.png, id=397, 723.70375pt x 93.34875pt>
+<pics/105.png, id=545, 723.70375pt x 93.34875pt>
 ./Compact.tex:2293: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4273,7 +4198,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2293--2293
 [][]  
  []
 
-<pics/106.png, id=398, 723.70375pt x 114.4275pt>
+<pics/106.png, id=546, 723.70375pt x 114.4275pt>
 ./Compact.tex:2294: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4307,7 +4232,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2294--2294
 [][]  
  []
 
-<pics/107.png, id=399, 723.70375pt x 129.48375pt>
+<pics/107.png, id=547, 723.70375pt x 129.48375pt>
 ./Compact.tex:2295: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4341,7 +4266,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2295--2295
 [][]  
  []
 
-<pics/108.png, id=400, 723.70375pt x 218.8175pt>
+<pics/108.png, id=548, 723.70375pt x 218.8175pt>
 ./Compact.tex:2296: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4375,7 +4300,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2296--2296
 [][]  
  []
 
-<pics/109.png, id=401, 723.70375pt x 180.675pt>
+<pics/109.png, id=549, 723.70375pt x 180.675pt>
 ./Compact.tex:2297: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4410,7 +4335,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2297--2297
  []
 
 [16 <./pics/077.png> <./pics/078.png> <./pics/079.png> <./pics/080.png> <./pics/081.png> <./pics/082.png> <./pics/083.png> <./pics/084.png> <./pics/085.png> <./pics/086.png> <./pics/087.png> <./pics/088.png> <./pics/089.png> <./pics/090.png> <./pics/091.png> <./pics/092.png> <./pics/093.png> <./pics/094.png> <./pics/095.png> <./pics/096.png> <./pics/097.png> <./pics/098.png> <./pics/099.png> <./pics/100.png> <./pics/101.png> <./pics/102.png> <./pics/103.png> <./pics/104.png> <./pics/105.png> <./pics/106.png>]
-<pics/110.png, id=406, 723.70375pt x 187.70125pt>
+<pics/110.png, id=554, 723.70375pt x 187.70125pt>
 
 ./Compact.tex:2298: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -4445,7 +4370,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2298--2298
 [][]  
  []
 
-<pics/111.png, id=407, 723.70375pt x 166.6225pt>
+<pics/111.png, id=555, 723.70375pt x 166.6225pt>
 ./Compact.tex:2299: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4479,7 +4404,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2299--2299
 [][]  
  []
 
-<pics/112.png, id=408, 723.70375pt x 200.75pt>
+<pics/112.png, id=556, 723.70375pt x 200.75pt>
 ./Compact.tex:2300: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4513,7 +4438,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2300--2300
 [][]  
  []
 
-<pics/113.png, id=409, 723.70375pt x 173.64874pt>
+<pics/113.png, id=557, 723.70375pt x 173.64874pt>
 ./Compact.tex:2301: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4547,7 +4472,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2301--2301
 [][]  
  []
 
-<pics/114.png, id=410, 723.70375pt x 187.70125pt>
+<pics/114.png, id=558, 723.70375pt x 187.70125pt>
 ./Compact.tex:2302: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4581,7 +4506,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2302--2302
 [][]  
  []
 
-<pics/115.png, id=411, 723.70375pt x 206.7725pt>
+<pics/115.png, id=559, 723.70375pt x 206.7725pt>
 ./Compact.tex:2303: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4615,7 +4540,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2303--2303
 [][]  
  []
 
-<pics/116.png, id=412, 743.77875pt x 163.61125pt>
+<pics/116.png, id=560, 743.77875pt x 163.61125pt>
 ./Compact.tex:2304: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4649,7 +4574,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2304--2304
 [][]  
  []
 
-<pics/117.png, id=413, 743.77875pt x 203.76125pt>
+<pics/117.png, id=561, 743.77875pt x 203.76125pt>
 ./Compact.tex:2305: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4683,7 +4608,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2305--2305
 [][]  
  []
 
-<pics/118.png, id=414, 743.77875pt x 152.57pt>
+<pics/118.png, id=562, 743.77875pt x 152.57pt>
 ./Compact.tex:2306: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4717,7 +4642,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2306--2306
 [][]  
  []
 
-<pics/119.png, id=415, 743.77875pt x 150.5625pt>
+<pics/119.png, id=563, 743.77875pt x 150.5625pt>
 ./Compact.tex:2307: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4751,7 +4676,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2307--2307
 [][]  
  []
 
-<pics/120.png, id=416, 743.77875pt x 124.465pt>
+<pics/120.png, id=564, 743.77875pt x 124.465pt>
 ./Compact.tex:2308: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4785,7 +4710,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2308--2308
 [][]  
  []
 
-<pics/121.png, id=417, 743.77875pt x 170.6375pt>
+<pics/121.png, id=565, 743.77875pt x 170.6375pt>
 ./Compact.tex:2309: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4819,7 +4744,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2309--2309
 [][]  
  []
 
-<pics/122.png, id=418, 723.70375pt x 171.64125pt>
+<pics/122.png, id=566, 723.70375pt x 171.64125pt>
 ./Compact.tex:2310: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4853,7 +4778,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2310--2310
 [][]  
  []
 
-<pics/123.png, id=419, 723.70375pt x 202.7575pt>
+<pics/123.png, id=567, 723.70375pt x 202.7575pt>
 ./Compact.tex:2311: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4887,7 +4812,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2311--2311
 [][]  
  []
 
-<pics/124.png, id=420, 723.70375pt x 83.31125pt>
+<pics/124.png, id=568, 723.70375pt x 83.31125pt>
 ./Compact.tex:2312: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4921,7 +4846,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2312--2312
 [][]  
  []
 
-<pics/125.png, id=421, 723.70375pt x 136.51pt>
+<pics/125.png, id=569, 723.70375pt x 136.51pt>
 ./Compact.tex:2313: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4955,7 +4880,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2313--2313
 [][]  
  []
 
-<pics/126.png, id=422, 723.70375pt x 172.645pt>
+<pics/126.png, id=570, 723.70375pt x 172.645pt>
 ./Compact.tex:2314: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -4989,7 +4914,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2314--2314
 [][]  
  []
 
-<pics/127.png, id=423, 723.70375pt x 184.69pt>
+<pics/127.png, id=571, 723.70375pt x 184.69pt>
 ./Compact.tex:2315: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5023,7 +4948,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2315--2315
 [][]  
  []
 
-<pics/128.png, id=424, 723.70375pt x 106.3975pt>
+<pics/128.png, id=572, 723.70375pt x 106.3975pt>
 ./Compact.tex:2316: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5057,7 +4982,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2316--2316
 [][]  
  []
 
-<pics/129.png, id=425, 723.70375pt x 119.44624pt>
+<pics/129.png, id=573, 723.70375pt x 119.44624pt>
 ./Compact.tex:2317: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5091,7 +5016,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2317--2317
 [][]  
  []
 
-<pics/130.png, id=426, 723.70375pt x 205.76875pt>
+<pics/130.png, id=574, 723.70375pt x 205.76875pt>
 ./Compact.tex:2318: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5125,7 +5050,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2318--2318
 [][]  
  []
 
-<pics/131.png, id=427, 723.70375pt x 154.5775pt>
+<pics/131.png, id=575, 723.70375pt x 154.5775pt>
 ./Compact.tex:2319: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5159,7 +5084,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2319--2319
 [][]  
  []
 
-<pics/132.png, id=428, 723.70375pt x 90.3375pt>
+<pics/132.png, id=576, 723.70375pt x 90.3375pt>
 ./Compact.tex:2320: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5193,7 +5118,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2320--2320
 [][]  
  []
 
-<pics/133.png, id=429, 723.70375pt x 191.71625pt>
+<pics/133.png, id=577, 723.70375pt x 191.71625pt>
 ./Compact.tex:2321: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5227,7 +5152,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2321--2321
 [][]  
  []
 
-<pics/134.png, id=430, 716.6775pt x 163.61125pt>
+<pics/134.png, id=578, 716.6775pt x 163.61125pt>
 ./Compact.tex:2322: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5261,7 +5186,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2322--2322
 [][]  
  []
 
-<pics/135.png, id=431, 716.6775pt x 165.61874pt>
+<pics/135.png, id=579, 716.6775pt x 165.61874pt>
 ./Compact.tex:2323: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5296,7 +5221,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2323--2323
  []
 
 [17 <./pics/107.png> <./pics/108.png> <./pics/109.png> <./pics/110.png> <./pics/111.png> <./pics/112.png> <./pics/113.png> <./pics/114.png> <./pics/115.png> <./pics/116.png> <./pics/117.png> <./pics/118.png> <./pics/119.png> <./pics/120.png> <./pics/121.png> <./pics/122.png> <./pics/123.png> <./pics/124.png> <./pics/125.png> <./pics/126.png> <./pics/127.png> <./pics/128.png> <./pics/129.png> <./pics/130.png> <./pics/131.png> <./pics/132.png> <./pics/133.png>]
-<pics/136.png, id=436, 716.6775pt x 135.50626pt>
+<pics/136.png, id=584, 716.6775pt x 135.50626pt>
 
 ./Compact.tex:2324: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -5331,7 +5256,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2324--2324
 [][]  
  []
 
-<pics/137.png, id=437, 716.6775pt x 135.50626pt>
+<pics/137.png, id=585, 716.6775pt x 135.50626pt>
 ./Compact.tex:2325: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5365,7 +5290,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2325--2325
 [][]  
  []
 
-<pics/138.png, id=438, 716.6775pt x 168.63pt>
+<pics/138.png, id=586, 716.6775pt x 168.63pt>
 ./Compact.tex:2326: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5399,7 +5324,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2326--2326
 [][]  
  []
 
-<pics/139.png, id=439, 716.6775pt x 108.405pt>
+<pics/139.png, id=587, 716.6775pt x 108.405pt>
 ./Compact.tex:2327: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5433,7 +5358,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2327--2327
 [][]  
  []
 
-<pics/140.png, id=440, 723.70375pt x 200.75pt>
+<pics/140.png, id=588, 723.70375pt x 200.75pt>
 ./Compact.tex:2328: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5467,7 +5392,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2328--2328
 [][]  
  []
 
-<pics/141.png, id=441, 723.70375pt x 208.78pt>
+<pics/141.png, id=589, 723.70375pt x 208.78pt>
 ./Compact.tex:2329: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5501,7 +5426,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2329--2329
 [][]  
  []
 
-<pics/142.png, id=442, 723.70375pt x 216.81pt>
+<pics/142.png, id=590, 723.70375pt x 216.81pt>
 ./Compact.tex:2330: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5535,7 +5460,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2330--2330
 [][]  
  []
 
-<pics/143.png, id=443, 723.70375pt x 203.76125pt>
+<pics/143.png, id=591, 723.70375pt x 203.76125pt>
 ./Compact.tex:2331: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5569,7 +5494,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2331--2331
 [][]  
  []
 
-<pics/144.png, id=444, 723.70375pt x 144.54pt>
+<pics/144.png, id=592, 723.70375pt x 144.54pt>
 ./Compact.tex:2332: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5603,7 +5528,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2332--2332
 [][]  
  []
 
-<pics/145.png, id=445, 723.70375pt x 174.6525pt>
+<pics/145.png, id=593, 723.70375pt x 174.6525pt>
 ./Compact.tex:2333: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5637,7 +5562,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2333--2333
 [][]  
  []
 
-<pics/146.png, id=446, 723.70375pt x 99.37125pt>
+<pics/146.png, id=594, 723.70375pt x 99.37125pt>
 ./Compact.tex:2334: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5671,7 +5596,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2334--2334
 [][]  
  []
 
-<pics/147.png, id=447, 723.70375pt x 147.55125pt>
+<pics/147.png, id=595, 723.70375pt x 147.55125pt>
 ./Compact.tex:2335: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5705,7 +5630,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2335--2335
 [][]  
  []
 
-<pics/148.png, id=448, 723.70375pt x 175.65625pt>
+<pics/148.png, id=596, 723.70375pt x 175.65625pt>
 ./Compact.tex:2336: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5739,7 +5664,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2336--2336
 [][]  
  []
 
-<pics/149.png, id=449, 723.70375pt x 200.75pt>
+<pics/149.png, id=597, 723.70375pt x 200.75pt>
 ./Compact.tex:2337: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5773,7 +5698,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2337--2337
 [][]  
  []
 
-<pics/150.png, id=450, 723.70375pt x 135.50626pt>
+<pics/150.png, id=598, 723.70375pt x 135.50626pt>
 ./Compact.tex:2338: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5807,7 +5732,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2338--2338
 [][]  
  []
 
-<pics/151.png, id=451, 723.70375pt x 157.58875pt>
+<pics/151.png, id=599, 723.70375pt x 157.58875pt>
 ./Compact.tex:2339: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5841,7 +5766,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2339--2339
 [][]  
  []
 
-<pics/152.png, id=452, 723.70375pt x 132.495pt>
+<pics/152.png, id=600, 723.70375pt x 132.495pt>
 ./Compact.tex:2340: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5875,7 +5800,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2340--2340
 [][]  
  []
 
-<pics/153.png, id=453, 723.70375pt x 124.465pt>
+<pics/153.png, id=601, 723.70375pt x 124.465pt>
 ./Compact.tex:2341: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5909,7 +5834,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2341--2341
 [][]  
  []
 
-<pics/154.png, id=454, 723.70375pt x 170.6375pt>
+<pics/154.png, id=602, 723.70375pt x 170.6375pt>
 ./Compact.tex:2342: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5943,7 +5868,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2342--2342
 [][]  
  []
 
-<pics/155.png, id=455, 723.70375pt x 205.76875pt>
+<pics/155.png, id=603, 723.70375pt x 205.76875pt>
 ./Compact.tex:2343: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -5977,7 +5902,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2343--2343
 [][]  
  []
 
-<pics/156.png, id=456, 723.70375pt x 202.7575pt>
+<pics/156.png, id=604, 723.70375pt x 202.7575pt>
 ./Compact.tex:2344: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6011,7 +5936,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2344--2344
 [][]  
  []
 
-<pics/157.png, id=457, 694.595pt x 69.25874pt>
+<pics/157.png, id=605, 694.595pt x 69.25874pt>
 ./Compact.tex:2345: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6045,7 +5970,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2345--2345
 [][]  
  []
 
-<pics/158.png, id=458, 694.595pt x 82.3075pt>
+<pics/158.png, id=606, 694.595pt x 82.3075pt>
 ./Compact.tex:2346: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6079,7 +6004,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2346--2346
 [][]  
  []
 
-<pics/159.png, id=459, 694.595pt x 62.2325pt>
+<pics/159.png, id=607, 694.595pt x 62.2325pt>
 ./Compact.tex:2347: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6113,7 +6038,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2347--2347
 [][]  
  []
 
-<pics/160.png, id=460, 694.595pt x 135.50626pt>
+<pics/160.png, id=608, 694.595pt x 135.50626pt>
 ./Compact.tex:2348: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6147,7 +6072,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2348--2348
 [][]  
  []
 
-<pics/161.png, id=461, 694.595pt x 84.315pt>
+<pics/161.png, id=609, 694.595pt x 84.315pt>
 ./Compact.tex:2349: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6181,7 +6106,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2349--2349
 [][]  
  []
 
-<pics/162.png, id=462, 694.595pt x 84.315pt>
+<pics/162.png, id=610, 694.595pt x 84.315pt>
 ./Compact.tex:2350: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6216,7 +6141,7 @@ Overfull \hbox (0.67493pt too wide) in paragraph at lines 2350--2350
  []
 
 [18 <./pics/134.png> <./pics/135.png> <./pics/136.png> <./pics/137.png> <./pics/138.png> <./pics/139.png> <./pics/140.png> <./pics/141.png> <./pics/142.png> <./pics/143.png> <./pics/144.png> <./pics/145.png> <./pics/146.png> <./pics/147.png> <./pics/148.png> <./pics/149.png> <./pics/150.png> <./pics/151.png> <./pics/152.png> <./pics/153.png> <./pics/154.png> <./pics/155.png> <./pics/156.png> <./pics/157.png> <./pics/158.png> <./pics/159.png> <./pics/160.png> <./pics/161.png> <./pics/162.png>]
-<pics/07_02.png, id=467, 638.385pt x 67.25125pt>
+<pics/07_02.png, id=615, 638.385pt x 67.25125pt>
 
 ./Compact.tex:2354: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -6246,7 +6171,7 @@ File: pics/07_02.png Graphic file (type png)
 <use pics/07_02.png>
 Package pdftex.def Info: pics/07_02.png  used on input line 2354.
 (pdftex.def)             Requested size: 250.0pt x 26.33664pt.
-<pics/07_03a.png, id=468, 571.13374pt x 109.40875pt>
+<pics/07_03a.png, id=616, 571.13374pt x 109.40875pt>
 ./Compact.tex:2356: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6275,7 +6200,7 @@ File: pics/07_03a.png Graphic file (type png)
 <use pics/07_03a.png>
 Package pdftex.def Info: pics/07_03a.png  used on input line 2356.
 (pdftex.def)             Requested size: 250.0pt x 47.89124pt.
-<pics/07_03b.png, id=469, 651.43375pt x 73.27374pt>
+<pics/07_03b.png, id=617, 651.43375pt x 73.27374pt>
 ./Compact.tex:2358: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6304,7 +6229,7 @@ File: pics/07_03b.png Graphic file (type png)
 <use pics/07_03b.png>
 Package pdftex.def Info: pics/07_03b.png  used on input line 2358.
 (pdftex.def)             Requested size: 250.0pt x 28.12045pt.
-<pics/07_04.png, id=470, 628.3475pt x 272.01625pt>
+<pics/07_04.png, id=618, 628.3475pt x 272.01625pt>
 ./Compact.tex:2360: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6333,7 +6258,7 @@ File: pics/07_04.png Graphic file (type png)
 <use pics/07_04.png>
 Package pdftex.def Info: pics/07_04.png  used on input line 2360.
 (pdftex.def)             Requested size: 250.0pt x 108.22348pt.
-<pics/07_05.png, id=471, 628.3475pt x 69.25874pt>
+<pics/07_05.png, id=619, 628.3475pt x 69.25874pt>
 ./Compact.tex:2362: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6362,7 +6287,7 @@ File: pics/07_05.png Graphic file (type png)
 <use pics/07_05.png>
 Package pdftex.def Info: pics/07_05.png  used on input line 2362.
 (pdftex.def)             Requested size: 250.0pt x 27.55504pt.
-<pics/07_06a.png, id=472, 631.35875pt x 175.65625pt>
+<pics/07_06a.png, id=620, 631.35875pt x 175.65625pt>
 ./Compact.tex:2364: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6391,7 +6316,7 @@ File: pics/07_06a.png Graphic file (type png)
 <use pics/07_06a.png>
 Package pdftex.def Info: pics/07_06a.png  used on input line 2364.
 (pdftex.def)             Requested size: 250.0pt x 69.55365pt.
-<pics/07_06b.png, id=473, 633.36626pt x 472.76625pt>
+<pics/07_06b.png, id=621, 633.36626pt x 472.76625pt>
 ./Compact.tex:2365: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6420,7 +6345,7 @@ File: pics/07_06b.png Graphic file (type png)
 <use pics/07_06b.png>
 Package pdftex.def Info: pics/07_06b.png  used on input line 2365.
 (pdftex.def)             Requested size: 250.0pt x 186.60716pt.
-<pics/07_09a.png, id=474, 572.1375pt x 89.33376pt>
+<pics/07_09a.png, id=622, 572.1375pt x 89.33376pt>
 ./Compact.tex:2367: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6449,7 +6374,7 @@ File: pics/07_09a.png Graphic file (type png)
 <use pics/07_09a.png>
 Package pdftex.def Info: pics/07_09a.png  used on input line 2367.
 (pdftex.def)             Requested size: 250.0pt x 39.0357pt.
-<pics/07_09b.png, id=475, 640.3925pt x 700.6175pt>
+<pics/07_09b.png, id=623, 640.3925pt x 700.6175pt>
 ./Compact.tex:2368: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6478,7 +6403,7 @@ File: pics/07_09b.png Graphic file (type png)
 <use pics/07_09b.png>
 Package pdftex.def Info: pics/07_09b.png  used on input line 2368.
 (pdftex.def)             Requested size: 250.0pt x 273.50699pt.
-<pics/07_10.png, id=476, 634.37pt x 589.20125pt>
+<pics/07_10.png, id=624, 634.37pt x 589.20125pt>
 ./Compact.tex:2370: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6507,7 +6432,7 @@ File: pics/07_10.png Graphic file (type png)
 <use pics/07_10.png>
 Package pdftex.def Info: pics/07_10.png  used on input line 2370.
 (pdftex.def)             Requested size: 250.0pt x 232.197pt.
-<pics/07_11a.png, id=477, 636.3775pt x 175.65625pt>
+<pics/07_11a.png, id=625, 636.3775pt x 175.65625pt>
 ./Compact.tex:2372: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6536,7 +6461,7 @@ File: pics/07_11a.png Graphic file (type png)
 <use pics/07_11a.png>
 Package pdftex.def Info: pics/07_11a.png  used on input line 2372.
 (pdftex.def)             Requested size: 250.0pt x 69.00418pt.
-<pics/07_11b.png, id=478, 629.35126pt x 186.6975pt>
+<pics/07_11b.png, id=626, 629.35126pt x 186.6975pt>
 ./Compact.tex:2373: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6565,7 +6490,7 @@ File: pics/07_11b.png Graphic file (type png)
 <use pics/07_11b.png>
 Package pdftex.def Info: pics/07_11b.png  used on input line 2373.
 (pdftex.def)             Requested size: 250.0pt x 74.16203pt.
-<pics/07_12a.png, id=479, 642.4pt x 543.02875pt>
+<pics/07_12a.png, id=627, 642.4pt x 543.02875pt>
 ./Compact.tex:2375: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6594,7 +6519,7 @@ File: pics/07_12a.png Graphic file (type png)
 <use pics/07_12a.png>
 Package pdftex.def Info: pics/07_12a.png  used on input line 2375.
 (pdftex.def)             Requested size: 250.0pt x 211.32462pt.
-<pics/07_12b.png, id=480, 635.37375pt x 507.8975pt>
+<pics/07_12b.png, id=628, 635.37375pt x 507.8975pt>
 ./Compact.tex:2376: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6623,7 +6548,7 @@ File: pics/07_12b.png Graphic file (type png)
 <use pics/07_12b.png>
 Package pdftex.def Info: pics/07_12b.png  used on input line 2376.
 (pdftex.def)             Requested size: 250.0pt x 199.83846pt.
-<pics/07_15.png, id=481, 634.37pt x 204.765pt>
+<pics/07_15.png, id=629, 634.37pt x 204.765pt>
 ./Compact.tex:2378: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6653,7 +6578,7 @@ File: pics/07_15.png Graphic file (type png)
 Package pdftex.def Info: pics/07_15.png  used on input line 2378.
 (pdftex.def)             Requested size: 250.0pt x 80.69537pt.
 [19 <./pics/07_02.png> <./pics/07_03a.png> <./pics/07_03b.png> <./pics/07_04.png> <./pics/07_05.png> <./pics/07_06a.png> <./pics/07_06b.png> <./pics/07_09a.png> <./pics/07_09b.png> <./pics/07_10.png> <./pics/07_11a.png> <./pics/07_11b.png> <./pics/07_12a.png> <./pics/07_12b.png>]
-<pics/10_09.png, id=487, 631.35875pt x 217.81375pt>
+<pics/10_09.png, id=635, 631.35875pt x 217.81375pt>
 
 ./Compact.tex:2380: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -6683,7 +6608,7 @@ File: pics/10_09.png Graphic file (type png)
 <use pics/10_09.png>
 Package pdftex.def Info: pics/10_09.png  used on input line 2380.
 (pdftex.def)             Requested size: 250.0pt x 86.24652pt.
-<pics/10_10.png, id=488, 636.3775pt x 91.34125pt>
+<pics/10_10.png, id=636, 636.3775pt x 91.34125pt>
 ./Compact.tex:2382: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6712,7 +6637,7 @@ File: pics/10_10.png Graphic file (type png)
 <use pics/10_10.png>
 Package pdftex.def Info: pics/10_10.png  used on input line 2382.
 (pdftex.def)             Requested size: 250.0pt x 35.88217pt.
-<pics/10_11.png, id=489, 633.36626pt x 115.43124pt>
+<pics/10_11.png, id=637, 633.36626pt x 115.43124pt>
 ./Compact.tex:2384: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6741,7 +6666,7 @@ File: pics/10_11.png Graphic file (type png)
 <use pics/10_11.png>
 Package pdftex.def Info: pics/10_11.png  used on input line 2384.
 (pdftex.def)             Requested size: 250.0pt x 45.56224pt.
-<pics/10_15.png, id=490, 634.37pt x 155.58125pt>
+<pics/10_15.png, id=638, 634.37pt x 155.58125pt>
 ./Compact.tex:2386: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6770,7 +6695,7 @@ File: pics/10_15.png Graphic file (type png)
 <use pics/10_15.png>
 Package pdftex.def Info: pics/10_15.png  used on input line 2386.
 (pdftex.def)             Requested size: 250.0pt x 61.31265pt.
-<pics/10_16.png, id=491, 642.4pt x 260.975pt>
+<pics/10_16.png, id=639, 642.4pt x 260.975pt>
 ./Compact.tex:2388: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6799,7 +6724,7 @@ File: pics/10_16.png Graphic file (type png)
 <use pics/10_16.png>
 Package pdftex.def Info: pics/10_16.png  used on input line 2388.
 (pdftex.def)             Requested size: 250.0pt x 101.56082pt.
-<pics/10_17.png, id=492, 631.35875pt x 135.50626pt>
+<pics/10_17.png, id=640, 631.35875pt x 135.50626pt>
 ./Compact.tex:2390: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6828,7 +6753,7 @@ File: pics/10_17.png Graphic file (type png)
 <use pics/10_17.png>
 Package pdftex.def Info: pics/10_17.png  used on input line 2390.
 (pdftex.def)             Requested size: 250.0pt x 53.65567pt.
-<pics/10_18.png, id=493, 640.3925pt x 77.28876pt>
+<pics/10_18.png, id=641, 640.3925pt x 77.28876pt>
 ./Compact.tex:2392: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6857,7 +6782,7 @@ File: pics/10_18.png Graphic file (type png)
 <use pics/10_18.png>
 Package pdftex.def Info: pics/10_18.png  used on input line 2392.
 (pdftex.def)             Requested size: 250.0pt x 30.17197pt.
-<pics/10_21.png, id=494, 636.3775pt x 171.64125pt>
+<pics/10_21.png, id=642, 636.3775pt x 171.64125pt>
 ./Compact.tex:2394: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6886,7 +6811,7 @@ File: pics/10_21.png Graphic file (type png)
 <use pics/10_21.png>
 Package pdftex.def Info: pics/10_21.png  used on input line 2394.
 (pdftex.def)             Requested size: 250.0pt x 67.42694pt.
-<pics/10_31a.png, id=495, 634.37pt x 291.0875pt>
+<pics/10_31a.png, id=643, 634.37pt x 291.0875pt>
 ./Compact.tex:2396: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6915,7 +6840,7 @@ File: pics/10_31a.png Graphic file (type png)
 <use pics/10_31a.png>
 Package pdftex.def Info: pics/10_31a.png  used on input line 2396.
 (pdftex.def)             Requested size: 250.0pt x 114.71402pt.
-<pics/10_31b.png, id=496, 632.3625pt x 191.71625pt>
+<pics/10_31b.png, id=644, 632.3625pt x 191.71625pt>
 ./Compact.tex:2397: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6944,7 +6869,7 @@ File: pics/10_31b.png Graphic file (type png)
 <use pics/10_31b.png>
 Package pdftex.def Info: pics/10_31b.png  used on input line 2397.
 (pdftex.def)             Requested size: 250.0pt x 75.79291pt.
-<pics/10_32.png, id=497, 629.35126pt x 233.87375pt>
+<pics/10_32.png, id=645, 629.35126pt x 233.87375pt>
 ./Compact.tex:2399: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -6973,7 +6898,7 @@ File: pics/10_32.png Graphic file (type png)
 <use pics/10_32.png>
 Package pdftex.def Info: pics/10_32.png  used on input line 2399.
 (pdftex.def)             Requested size: 250.0pt x 92.9019pt.
-<pics/10_34.png, id=498, 627.34375pt x 109.40875pt>
+<pics/10_34.png, id=646, 627.34375pt x 109.40875pt>
 ./Compact.tex:2401: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7002,7 +6927,7 @@ File: pics/10_34.png Graphic file (type png)
 <use pics/10_34.png>
 Package pdftex.def Info: pics/10_34.png  used on input line 2401.
 (pdftex.def)             Requested size: 250.0pt x 43.60077pt.
-<pics/10_39a.png, id=499, 636.3775pt x 208.78pt>
+<pics/10_39a.png, id=647, 636.3775pt x 208.78pt>
 ./Compact.tex:2403: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7031,7 +6956,7 @@ File: pics/10_39a.png Graphic file (type png)
 <use pics/10_39a.png>
 Package pdftex.def Info: pics/10_39a.png  used on input line 2403.
 (pdftex.def)             Requested size: 250.0pt x 82.0164pt.
-<pics/10_39b.png, id=500, 631.35875pt x 68.255pt>
+<pics/10_39b.png, id=648, 631.35875pt x 68.255pt>
 ./Compact.tex:2404: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7060,7 +6985,7 @@ File: pics/10_39b.png Graphic file (type png)
 <use pics/10_39b.png>
 Package pdftex.def Info: pics/10_39b.png  used on input line 2404.
 (pdftex.def)             Requested size: 250.0pt x 27.02655pt.
-<pics/10_40.png, id=501, 636.3775pt x 517.935pt>
+<pics/10_40.png, id=649, 636.3775pt x 517.935pt>
 ./Compact.tex:2406: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7089,7 +7014,7 @@ File: pics/10_40.png Graphic file (type png)
 <use pics/10_40.png>
 Package pdftex.def Info: pics/10_40.png  used on input line 2406.
 (pdftex.def)             Requested size: 250.0pt x 203.46379pt.
-<pics/10_43.png, id=502, 631.35875pt x 75.28125pt>
+<pics/10_43.png, id=650, 631.35875pt x 75.28125pt>
 ./Compact.tex:2408: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7118,7 +7043,7 @@ File: pics/10_43.png Graphic file (type png)
 <use pics/10_43.png>
 Package pdftex.def Info: pics/10_43.png  used on input line 2408.
 (pdftex.def)             Requested size: 250.0pt x 29.8087pt.
-<pics/10_44.png, id=503, 627.34375pt x 354.32375pt>
+<pics/10_44.png, id=651, 627.34375pt x 354.32375pt>
 ./Compact.tex:2410: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7147,7 +7072,7 @@ File: pics/10_44.png Graphic file (type png)
 <use pics/10_44.png>
 Package pdftex.def Info: pics/10_44.png  used on input line 2410.
 (pdftex.def)             Requested size: 250.0pt x 141.20255pt.
-<pics/10_45.png, id=504, 631.35875pt x 204.765pt>
+<pics/10_45.png, id=652, 631.35875pt x 204.765pt>
 ./Compact.tex:2412: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7176,7 +7101,7 @@ File: pics/10_45.png Graphic file (type png)
 <use pics/10_45.png>
 Package pdftex.def Info: pics/10_45.png  used on input line 2412.
 (pdftex.def)             Requested size: 250.0pt x 81.07968pt.
-<pics/10_46.png, id=505, 629.35126pt x 214.8025pt>
+<pics/10_46.png, id=653, 629.35126pt x 214.8025pt>
 ./Compact.tex:2414: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7205,7 +7130,7 @@ File: pics/10_46.png Graphic file (type png)
 <use pics/10_46.png>
 Package pdftex.def Info: pics/10_46.png  used on input line 2414.
 (pdftex.def)             Requested size: 250.0pt x 85.32622pt.
-<pics/10_47.png, id=506, 625.33624pt x 129.48375pt>
+<pics/10_47.png, id=654, 625.33624pt x 129.48375pt>
 ./Compact.tex:2416: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7235,7 +7160,7 @@ File: pics/10_47.png Graphic file (type png)
 Package pdftex.def Info: pics/10_47.png  used on input line 2416.
 (pdftex.def)             Requested size: 250.0pt x 51.76491pt.
 [20 <./pics/07_15.png> <./pics/10_09.png> <./pics/10_10.png> <./pics/10_11.png> <./pics/10_15.png> <./pics/10_16.png> <./pics/10_17.png> <./pics/10_18.png> <./pics/10_21.png> <./pics/10_31a.png> <./pics/10_31b.png> <./pics/10_32.png> <./pics/10_34.png> <./pics/10_39a.png> <./pics/10_39b.png> <./pics/10_40.png> <./pics/10_43.png> <./pics/10_44.png> <./pics/10_45.png>]
-<pics/10_49.png, id=511, 638.385pt x 627.34375pt>
+<pics/10_49.png, id=659, 638.385pt x 627.34375pt>
 
 ./Compact.tex:2418: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -7265,7 +7190,7 @@ File: pics/10_49.png Graphic file (type png)
 <use pics/10_49.png>
 Package pdftex.def Info: pics/10_49.png  used on input line 2418.
 (pdftex.def)             Requested size: 250.0pt x 245.67775pt.
-<pics/10_50a.png, id=512, 630.355pt x 157.58875pt>
+<pics/10_50a.png, id=660, 630.355pt x 157.58875pt>
 ./Compact.tex:2420: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7294,7 +7219,7 @@ File: pics/10_50a.png Graphic file (type png)
 <use pics/10_50a.png>
 Package pdftex.def Info: pics/10_50a.png  used on input line 2420.
 (pdftex.def)             Requested size: 250.0pt x 62.50055pt.
-<pics/10_50b.png, id=513, 631.35875pt x 282.05376pt>
+<pics/10_50b.png, id=661, 631.35875pt x 282.05376pt>
 ./Compact.tex:2421: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7323,7 +7248,7 @@ File: pics/10_50b.png Graphic file (type png)
 <use pics/10_50b.png>
 Package pdftex.def Info: pics/10_50b.png  used on input line 2421.
 (pdftex.def)             Requested size: 250.0pt x 111.68329pt.
-<pics/10_52a.png, id=514, 629.35126pt x 160.6pt>
+<pics/10_52a.png, id=662, 629.35126pt x 160.6pt>
 ./Compact.tex:2423: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7352,7 +7277,7 @@ File: pics/10_52a.png Graphic file (type png)
 <use pics/10_52a.png>
 Package pdftex.def Info: pics/10_52a.png  used on input line 2423.
 (pdftex.def)             Requested size: 250.0pt x 63.7953pt.
-<pics/10_52b.png, id=515, 631.35875pt x 477.785pt>
+<pics/10_52b.png, id=663, 631.35875pt x 477.785pt>
 ./Compact.tex:2424: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7381,7 +7306,7 @@ File: pics/10_52b.png Graphic file (type png)
 <use pics/10_52b.png>
 Package pdftex.def Info: pics/10_52b.png  used on input line 2424.
 (pdftex.def)             Requested size: 250.0pt x 189.18594pt.
-<pics/10_55.png, id=516, 629.35126pt x 129.48375pt>
+<pics/10_55.png, id=664, 629.35126pt x 129.48375pt>
 ./Compact.tex:2426: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7410,7 +7335,7 @@ File: pics/10_55.png Graphic file (type png)
 <use pics/10_55.png>
 Package pdftex.def Info: pics/10_55.png  used on input line 2426.
 (pdftex.def)             Requested size: 250.0pt x 51.43495pt.
-<pics/10_56a.png, id=517, 633.36626pt x 476.78125pt>
+<pics/10_56a.png, id=665, 633.36626pt x 476.78125pt>
 ./Compact.tex:2428: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7439,7 +7364,7 @@ File: pics/10_56a.png Graphic file (type png)
 <use pics/10_56a.png>
 Package pdftex.def Info: pics/10_56a.png  used on input line 2428.
 (pdftex.def)             Requested size: 250.0pt x 188.19193pt.
-<pics/10_56b.png, id=518, 625.33624pt x 133.49875pt>
+<pics/10_56b.png, id=666, 625.33624pt x 133.49875pt>
 ./Compact.tex:2429: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7468,7 +7393,7 @@ File: pics/10_56b.png Graphic file (type png)
 <use pics/10_56b.png>
 Package pdftex.def Info: pics/10_56b.png  used on input line 2429.
 (pdftex.def)             Requested size: 250.0pt x 53.37003pt.
-<pics/10_58.png, id=519, 636.3775pt x 307.1475pt>
+<pics/10_58.png, id=667, 636.3775pt x 307.1475pt>
 ./Compact.tex:2431: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7497,7 +7422,7 @@ File: pics/10_58.png Graphic file (type png)
 <use pics/10_58.png>
 Package pdftex.def Info: pics/10_58.png  used on input line 2431.
 (pdftex.def)             Requested size: 250.0pt x 120.65875pt.
-<pics/10_61.png, id=520, 627.34375pt x 431.6125pt>
+<pics/10_61.png, id=668, 627.34375pt x 431.6125pt>
 ./Compact.tex:2433: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7526,7 +7451,7 @@ File: pics/10_61.png Graphic file (type png)
 <use pics/10_61.png>
 Package pdftex.def Info: pics/10_61.png  used on input line 2433.
 (pdftex.def)             Requested size: 250.0pt x 172.0031pt.
-<pics/10_62.png, id=521, 632.3625pt x 218.8175pt>
+<pics/10_62.png, id=669, 632.3625pt x 218.8175pt>
 ./Compact.tex:2435: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7555,7 +7480,7 @@ File: pics/10_62.png Graphic file (type png)
 <use pics/10_62.png>
 Package pdftex.def Info: pics/10_62.png  used on input line 2435.
 (pdftex.def)             Requested size: 250.0pt x 86.50708pt.
-<pics/10_63.png, id=522, 632.3625pt x 137.51375pt>
+<pics/10_63.png, id=670, 632.3625pt x 137.51375pt>
 ./Compact.tex:2437: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7584,7 +7509,7 @@ File: pics/10_63.png Graphic file (type png)
 <use pics/10_63.png>
 Package pdftex.def Info: pics/10_63.png  used on input line 2437.
 (pdftex.def)             Requested size: 250.0pt x 54.36455pt.
-<pics/10_64.png, id=523, 631.35875pt x 153.57375pt>
+<pics/10_64.png, id=671, 631.35875pt x 153.57375pt>
 ./Compact.tex:2439: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7620,7 +7545,7 @@ Overfull \vbox (16.51646pt too high) has occurred while \output is active []
 Overfull \vbox (4.5419pt too high) has occurred while \output is active []
 
  [21 <./pics/10_46.png> <./pics/10_47.png> <./pics/10_49.png> <./pics/10_50a.png> <./pics/10_50b.png> <./pics/10_52a.png> <./pics/10_52b.png> <./pics/10_55.png> <./pics/10_56a.png> <./pics/10_56b.png> <./pics/10_58.png> <./pics/10_61.png>]
-<pics/R_p1.png, id=528, 876.27374pt x 112.42pt>
+<pics/R_p1.png, id=676, 876.27374pt x 112.42pt>
 
 ./Compact.tex:2444: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -7650,7 +7575,7 @@ File: pics/R_p1.png Graphic file (type png)
 <use pics/R_p1.png>
 Package pdftex.def Info: pics/R_p1.png  used on input line 2444.
 (pdftex.def)             Requested size: 400.0pt x 51.31757pt.
-<pics/R_t1a.png, id=529, 890.32625pt x 353.32pt>
+<pics/R_t1a.png, id=677, 890.32625pt x 353.32pt>
 ./Compact.tex:2446: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7679,7 +7604,7 @@ File: pics/R_t1a.png Graphic file (type png)
 <use pics/R_t1a.png>
 Package pdftex.def Info: pics/R_t1a.png  used on input line 2446.
 (pdftex.def)             Requested size: 400.0pt x 158.73914pt.
-<pics/R_t1b.png, id=530, 874.26625pt x 79.29625pt>
+<pics/R_t1b.png, id=678, 874.26625pt x 79.29625pt>
 ./Compact.tex:2447: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7708,7 +7633,7 @@ File: pics/R_t1b.png Graphic file (type png)
 <use pics/R_t1b.png>
 Package pdftex.def Info: pics/R_t1b.png  used on input line 2447.
 (pdftex.def)             Requested size: 400.0pt x 36.28069pt.
-<pics/R_t2.png, id=531, 874.26625pt x 202.7575pt>
+<pics/R_t2.png, id=679, 874.26625pt x 202.7575pt>
 ./Compact.tex:2449: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7737,7 +7662,7 @@ File: pics/R_t2.png Graphic file (type png)
 <use pics/R_t2.png>
 Package pdftex.def Info: pics/R_t2.png  used on input line 2449.
 (pdftex.def)             Requested size: 400.0pt x 92.76837pt.
-<pics/R_l1a.png, id=532, 881.2925pt x 357.335pt>
+<pics/R_l1a.png, id=680, 881.2925pt x 357.335pt>
 ./Compact.tex:2451: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7766,7 +7691,7 @@ File: pics/R_l1a.png Graphic file (type png)
 <use pics/R_l1a.png>
 Package pdftex.def Info: pics/R_l1a.png  used on input line 2451.
 (pdftex.def)             Requested size: 400.0pt x 162.18419pt.
-<pics/R_l1b.png, id=533, 881.2925pt x 274.02374pt>
+<pics/R_l1b.png, id=681, 881.2925pt x 274.02374pt>
 ./Compact.tex:2452: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7795,7 +7720,7 @@ File: pics/R_l1b.png Graphic file (type png)
 <use pics/R_l1b.png>
 Package pdftex.def Info: pics/R_l1b.png  used on input line 2452.
 (pdftex.def)             Requested size: 400.0pt x 124.37158pt.
-<pics/R_t3.png, id=534, 882.29625pt x 836.12375pt>
+<pics/R_t3.png, id=682, 882.29625pt x 836.12375pt>
 ./Compact.tex:2454: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7825,7 +7750,7 @@ File: pics/R_t3.png Graphic file (type png)
 Package pdftex.def Info: pics/R_t3.png  used on input line 2454.
 (pdftex.def)             Requested size: 400.0pt x 379.07178pt.
 [22 <./pics/10_62.png> <./pics/10_63.png> <./pics/10_64.png> <./pics/R_p1.png> <./pics/R_t1a.png> <./pics/R_t1b.png> <./pics/R_t2.png> <./pics/R_l1a.png> <./pics/R_l1b.png>]
-<pics/R_t4.png, id=539, 874.26625pt x 225.84375pt>
+<pics/R_t4.png, id=687, 874.26625pt x 225.84375pt>
 
 ./Compact.tex:2456: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -7855,7 +7780,7 @@ File: pics/R_t4.png Graphic file (type png)
 <use pics/R_t4.png>
 Package pdftex.def Info: pics/R_t4.png  used on input line 2456.
 (pdftex.def)             Requested size: 400.0pt x 103.3311pt.
-<pics/R_t5.png, id=540, 878.28125pt x 389.455pt>
+<pics/R_t5.png, id=688, 878.28125pt x 389.455pt>
 ./Compact.tex:2458: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7884,7 +7809,7 @@ File: pics/R_t5.png Graphic file (type png)
 <use pics/R_t5.png>
 Package pdftex.def Info: pics/R_t5.png  used on input line 2458.
 (pdftex.def)             Requested size: 400.0pt x 177.37463pt.
-<pics/R_t6.png, id=541, 871.255pt x 97.36375pt>
+<pics/R_t6.png, id=689, 871.255pt x 97.36375pt>
 ./Compact.tex:2460: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7913,7 +7838,7 @@ File: pics/R_t6.png Graphic file (type png)
 <use pics/R_t6.png>
 Package pdftex.def Info: pics/R_t6.png  used on input line 2460.
 (pdftex.def)             Requested size: 400.0pt x 44.7002pt.
-<pics/R_t7a.png, id=542, 878.28125pt x 364.36125pt>
+<pics/R_t7a.png, id=690, 878.28125pt x 364.36125pt>
 ./Compact.tex:2462: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7942,7 +7867,7 @@ File: pics/R_t7a.png Graphic file (type png)
 <use pics/R_t7a.png>
 Package pdftex.def Info: pics/R_t7a.png  used on input line 2462.
 (pdftex.def)             Requested size: 400.0pt x 165.94585pt.
-<pics/R_t7b.png, id=543, 878.28125pt x 290.08376pt>
+<pics/R_t7b.png, id=691, 878.28125pt x 290.08376pt>
 ./Compact.tex:2463: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -7971,7 +7896,7 @@ File: pics/R_t7b.png Graphic file (type png)
 <use pics/R_t7b.png>
 Package pdftex.def Info: pics/R_t7b.png  used on input line 2463.
 (pdftex.def)             Requested size: 400.0pt x 132.11667pt.
-<pics/P_t1.png, id=544, 930.47626pt x 349.305pt>
+<pics/P_t1.png, id=692, 930.47626pt x 349.305pt>
 ./Compact.tex:2466: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -8001,7 +7926,7 @@ File: pics/P_t1.png Graphic file (type png)
 Package pdftex.def Info: pics/P_t1.png  used on input line 2466.
 (pdftex.def)             Requested size: 400.0pt x 150.1609pt.
 [23 <./pics/R_t3.png> <./pics/R_t4.png> <./pics/R_t5.png> <./pics/R_t6.png> <./pics/R_t7a.png> <./pics/R_t7b.png>]
-<pics/P_t2a.png, id=549, 925.4575pt x 134.5025pt>
+<pics/P_t2a.png, id=697, 925.4575pt x 134.5025pt>
 
 ./Compact.tex:2468: Illegal unit of measure (pt inserted).
 <to be read again> 
@@ -8031,7 +7956,7 @@ File: pics/P_t2a.png Graphic file (type png)
 <use pics/P_t2a.png>
 Package pdftex.def Info: pics/P_t2a.png  used on input line 2468.
 (pdftex.def)             Requested size: 400.0pt x 58.13457pt.
-<pics/P_t2b.png, id=550, 927.465pt x 110.4125pt>
+<pics/P_t2b.png, id=698, 927.465pt x 110.4125pt>
 ./Compact.tex:2469: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -8060,7 +7985,7 @@ File: pics/P_t2b.png Graphic file (type png)
 <use pics/P_t2b.png>
 Package pdftex.def Info: pics/P_t2b.png  used on input line 2469.
 (pdftex.def)             Requested size: 400.0pt x 47.61964pt.
-<pics/P_l1.png, id=551, 932.48375pt x 225.84375pt>
+<pics/P_l1.png, id=699, 932.48375pt x 225.84375pt>
 ./Compact.tex:2471: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -8089,7 +8014,7 @@ File: pics/P_l1.png Graphic file (type png)
 <use pics/P_l1.png>
 Package pdftex.def Info: pics/P_l1.png  used on input line 2471.
 (pdftex.def)             Requested size: 400.0pt x 96.87657pt.
-<pics/P_t3.png, id=552, 928.46875pt x 160.6pt>
+<pics/P_t3.png, id=700, 928.46875pt x 160.6pt>
 ./Compact.tex:2473: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -8118,7 +8043,7 @@ File: pics/P_t3.png Graphic file (type png)
 <use pics/P_t3.png>
 Package pdftex.def Info: pics/P_t3.png  used on input line 2473.
 (pdftex.def)             Requested size: 400.0pt x 69.18896pt.
-<pics/B_t1a.png, id=553, 931.48pt x 391.4625pt>
+<pics/B_t1a.png, id=701, 931.48pt x 391.4625pt>
 ./Compact.tex:2477: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -8147,7 +8072,7 @@ File: pics/B_t1a.png Graphic file (type png)
 <use pics/B_t1a.png>
 Package pdftex.def Info: pics/B_t1a.png  used on input line 2477.
 (pdftex.def)             Requested size: 400.0pt x 168.10457pt.
-<pics/B_t1b.png, id=554, 923.45pt x 52.195pt>
+<pics/B_t1b.png, id=702, 923.45pt x 52.195pt>
 ./Compact.tex:2478: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
@@ -8195,15 +8120,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 2483.
  (./Compact.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2483.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2483.
-
-
-Package rerunfilecheck Warning: File `Compact.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Compact.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  601328FD290920DA1396F0BFCBE9E2C0;3502.
+Package rerunfilecheck Info: File `Compact.out' has not changed.
+(rerunfilecheck)             Checksum: 601328FD290920DA1396F0BFCBE9E2C0;3502.
  )
 (\end occurred inside a group at level 2)
 
@@ -8211,18 +8129,18 @@ Package rerunfilecheck Info: Checksums for `Compact.out':
 ### semi simple group (level 1) entered at line 2442 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8391 strings out of 492616
- 119164 string characters out of 6135177
- 236799 words of memory out of 5000000
- 11746 multiletter control sequences out of 15000+600000
+ 8444 strings out of 492616
+ 119950 string characters out of 6135177
+ 236933 words of memory out of 5000000
+ 11795 multiletter control sequences out of 15000+600000
  8450 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,10n,31p,815b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on Compact.pdf (24 pages, 7204944 bytes).
+Output written on Compact.pdf (24 pages, 7207922 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 384 compressed objects within 4 object streams
+ 808 PDF objects out of 1000 (max. 8388607)
+ 532 compressed objects within 6 object streams
  234 named destinations out of 1000 (max. 500000)
- 1146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1538 words of extra memory for PDF output out of 10000 (max. 10000000)
 
