@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/8f20f8c1/
+Absolute Convergence	Compact.tex	/^\\subsection{Absolute Convergence}$/;"	u	section:Infinite Series of Real Numbers
+Alternating Series	Compact.tex	/^\\subsection{Alternating Series}$/;"	u	section:Infinite Series of Real Numbers
+Banach's Contraction Mapping Theorem	Compact.tex	/^\\subsection{Banach's Contraction Mapping Theorem}$/;"	u	section:Contraction Mapping \\& ODEs
+Bolzano-Weierstrass Theorem	Compact.tex	/^    \\subsection{Bolzano-Weierstrass Theorem}$/;"	u	section:Sequences in $\\mathbb{R}$
+Cauchy Sequences	Compact.tex	/^    \\subsection{Cauchy Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
+Compact Sets	Compact.tex	/^\\subsection{Compact Sets}$/;"	u	section:Metric Spaces
+Completeness Axiom	Compact.tex	/^    \\subsection{Completeness Axiom}$/;"	u	section:The Real Number System
+Connected Sets	Compact.tex	/^\\subsection{Connected Sets}$/;"	u	section:Metric Spaces
+Continuity	Compact.tex	/^    \\subsection{Continuity}$/;"	u	section:Functions on \\mathbb{R}
+Continuous Functions	Compact.tex	/^\\subsection{Continuous Functions}$/;"	u	section:Metric Spaces
+Contraction Mapping \\& ODEs	Compact.tex	/^\\section{Contraction Mapping \\& ODEs}$/;"	s
+Countable and Uncountable Sets	Compact.tex	/^    \\subsection{Countable and Uncountable Sets}$/;"	u	section:The Real Number System
+Differentiability Theorems	Compact.tex	/^    \\subsection{Differentiability Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
+Differentiability on \\mathbb{R}	Compact.tex	/^    \\section{Differentiability on \\mathbb{R}}$/;"	s
+Existence and uniqueness for solutions to ODEs	Compact.tex	/^\\subsection{Existence and uniqueness for solutions to ODEs}$/;"	u	section:Contraction Mapping \\& ODEs
+Functions on \\mathbb{R}	Compact.tex	/^    \\section{Functions on \\mathbb{R}}$/;"	s
+Fundamental Theorem of Calculus, and Practical Integration	Compact.tex	/^    \\subsection{Fundamental Theorem of Calculus, and Practical Integration}$/;"	u	section:Riemann Integration
+Infinite Series of Functions	Compact.tex	/^\\section{Infinite Series of Functions}$/;"	s
+Infinite Series of Real Numbers	Compact.tex	/^    \\section{Infinite Series of Real Numbers}$/;"	s
+Integrals and uniform limits of sequences and series of functions	Compact.tex	/^    \\subsection{Integrals and uniform limits of sequences and series of functions}$/;"	u	section:Riemann Integration
+Interior, Closure, and Boundary	Compact.tex	/^\\subsection{Interior, Closure, and Boundary}$/;"	u	section:Metric Spaces
+Introduction	Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Infinite Series of Real Numbers
+Introduction	Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:Riemann Integration
+Introduction	Compact.tex	/^    \\subsection{Introduction}$/;"	u	section:The Real Number System
+Introduction	Compact.tex	/^\\subsection{Introduction}$/;"	u	section:Metric Spaces
+Inverse Function Theorems	Compact.tex	/^    \\subsection{Inverse Function Theorems}$/;"	u	section:Differentiability on \\mathbb{R}
+Inverse Functions and Images	Compact.tex	/^    \\subsection{Inverse Functions and Images}$/;"	u	section:The Real Number System
+Limit Theorems	Compact.tex	/^    \\subsection{Limit Theorems}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limits Supremum and Infimum	Compact.tex	/^    \\subsection{Limits Supremum and Infimum}$/;"	u	section:Sequences in $\\mathbb{R}$
+Limits of Functions	Compact.tex	/^\\subsection{Limits of Functions}$/;"	u	section:Metric Spaces
+Limits of Sequences	Compact.tex	/^    \\subsection{Limits of Sequences}$/;"	u	section:Sequences in $\\mathbb{R}$
+Mathematical Induction	Compact.tex	/^    \\subsection{Mathematical Induction}$/;"	u	section:The Real Number System
+Mean Value Theorem	Compact.tex	/^    \\subsection{Mean Value Theorem}$/;"	u	section:Differentiability on \\mathbb{R}
+Metric Spaces	Compact.tex	/^\\section{Metric Spaces}$/;"	s
+One-Sided Limits and Limits at Infinity	Compact.tex	/^    \\subsection{One-Sided Limits and Limits at Infinity}$/;"	u	section:Functions on \\mathbb{R}
+Ordered Field Axioms	Compact.tex	/^    \\subsection{Ordered Field Axioms}$/;"	u	section:The Real Number System
+Power Series	Compact.tex	/^\\subsection{Power Series}$/;"	u	section:Infinite Series of Functions
+Riemann Integration	Compact.tex	/^    \\section{Riemann Integration}$/;"	s
+Riemann-integrable functions and their integrals	Compact.tex	/^    \\subsection{Riemann-integrable functions and their integrals}$/;"	u	section:Riemann Integration
+Sequences in $\\mathbb{R}$	Compact.tex	/^    \\section{Sequences in $\\mathbb{R}$}$/;"	s
+Series with Nonnegative Terms	Compact.tex	/^    \\subsection{Series with Nonnegative Terms}$/;"	u	section:Infinite Series of Real Numbers
+Step functions and their integrals	Compact.tex	/^    \\subsection{Step functions and their integrals}$/;"	u	section:Riemann Integration
+Taylor's Theorem and L'Hopital's Rule	Compact.tex	/^    \\subsection{Taylor's Theorem and L'Hopital's Rule}$/;"	u	section:Differentiability on \\mathbb{R}
+The Derivative	Compact.tex	/^    \\subsection{The Derivative}$/;"	u	section:Differentiability on \\mathbb{R}
+The Real Number System	Compact.tex	/^    \\section{The Real Number System}$/;"	s
+Two-Sided Limits	Compact.tex	/^    \\subsection{Two-Sided Limits}$/;"	u	section:Functions on \\mathbb{R}
+Uniform Continuity	Compact.tex	/^    \\subsection{Uniform Continuity}$/;"	u	section:Functions on \\mathbb{R}
+Uniform Convergence of Sequences	Compact.tex	/^\\subsection{Uniform Convergence of Sequences}$/;"	u	section:Infinite Series of Functions
+Uniform Convergence of Series	Compact.tex	/^\\subsection{Uniform Convergence of Series}$/;"	u	section:Infinite Series of Functions
