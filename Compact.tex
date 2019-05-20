@@ -92,251 +92,251 @@
     %             \]
     %     \end{itemize}
 
-    \textbf{Remark 1.1} \\
-    We will assume that the sets $\mathbb{N}$ and $\mathbb{Z}$ satisfy the following
-    properties:
-    \begin{enumerate}
-        \item If $n, m \in \mathbb{Z}$, then $n + m, n - m$ and $mn$ belong to $\mathbb{Z}$
-        \item If $n \in \mathbb{Z}$, then $n \in \mathbb{N}$ if and only if $n \geq 1$
-        \item There is no $n \in \mathbb{Z}$ that satisfies $0 < n < 1$
-    \end{enumerate}
+    % \textbf{Remark 1.1} \\
+    % We will assume that the sets $\mathbb{N}$ and $\mathbb{Z}$ satisfy the following
+    % properties:
+    % \begin{enumerate}
+    %     \item If $n, m \in \mathbb{Z}$, then $n + m, n - m$ and $mn$ belong to $\mathbb{Z}$
+    %     \item If $n \in \mathbb{Z}$, then $n \in \mathbb{N}$ if and only if $n \geq 1$
+    %     \item There is no $n \in \mathbb{Z}$ that satisfies $0 < n < 1$
+    % \end{enumerate}
 
-    \textbf{Definition 1.4} \emph{Absolute Value} \\
-    The \emph{absolute value} of a number $a \in \mathbb{R}$ is the number
-    \[
-        |a| :=
-        \begin{cases}{}
-            a  & a \geq 0 \\
-            -a & a < 0 \\
-        \end{cases}
-    \]
+    % \textbf{Definition 1.4} \emph{Absolute Value} \\
+    % The \emph{absolute value} of a number $a \in \mathbb{R}$ is the number
+    % \[
+    %     |a| :=
+    %     \begin{cases}{}
+    %         a  & a \geq 0 \\
+    %         -a & a < 0 \\
+    %     \end{cases}
+    % \]
 
-    \textbf{Remark 1.5} The \emph{absolute value} is multiplicative;
-    that is, $|ab| = |a||b| \ \forall a, b, \in \mathbb{R}$
+    % \textbf{Remark 1.5} The \emph{absolute value} is multiplicative;
+    % that is, $|ab| = |a||b| \ \forall a, b, \in \mathbb{R}$
 
-    \textbf{Theorem 1.6} \emph{Fundamental Theorem of Absolute Values} \\
-    Let $a \in \mathbb{R}$ and $M \geq 0$.
-    Then $|a| \leq M \iff -M \leq a \leq M$.
+    % \textbf{Theorem 1.6} \emph{Fundamental Theorem of Absolute Values} \\
+    % Let $a \in \mathbb{R}$ and $M \geq 0$.
+    % Then $|a| \leq M \iff -M \leq a \leq M$.
 
-    \textbf{Theorem 1.7} The absolute value satisfies the following three properties:
-    \begin{enumerate}
-        \item \emph{Positive Definite}:
-            For all $a \in \mathbb{R}$, $|a| > 0$ with $|a| = 0$ if and only if $a = 0$.
-        \item \emph{Symmetric}:
-            For all $a, b, \in \mathbb{R}$, $|a - b| = |b - a|$,
-        \item \emph{Triangle Inequalities}:
-            For all $a, b \in \mathbb{R}$ \\
-            $|a + b| \leq |a| + |b| \ \text{and} \
-            \left| |a| - |b| \right| \leq |a - b|$
-    \end{enumerate}
+    % \textbf{Theorem 1.7} The absolute value satisfies the following three properties:
+    % \begin{enumerate}
+    %     \item \emph{Positive Definite}:
+    %         For all $a \in \mathbb{R}$, $|a| > 0$ with $|a| = 0$ if and only if $a = 0$.
+    %     \item \emph{Symmetric}:
+    %         For all $a, b, \in \mathbb{R}$, $|a - b| = |b - a|$,
+    %     \item \emph{Triangle Inequalities}:
+    %         For all $a, b \in \mathbb{R}$ \\
+    %         $|a + b| \leq |a| + |b| \ \text{and} \
+    %         \left| |a| - |b| \right| \leq |a - b|$
+    % \end{enumerate}
 
-    \textbf{Theorem 1.9} Let $x, y, a \in \mathbb{R}$
-    \begin{enumerate}
-        \item $x < y + \epsilon \ \forall \epsilon > 0 \iff x \leq y$
-        \item $x > y - \epsilon \ \forall \epsilon > 0 \iff x \geq y$
-        \item $|a| < \epsilon \ \forall \epsilon > 0 \iff a = 0$
-    \end{enumerate}
+    % \textbf{Theorem 1.9} Let $x, y, a \in \mathbb{R}$
+    % \begin{enumerate}
+    %     \item $x < y + \epsilon \ \forall \epsilon > 0 \iff x \leq y$
+    %     \item $x > y - \epsilon \ \forall \epsilon > 0 \iff x \geq y$
+    %     \item $|a| < \epsilon \ \forall \epsilon > 0 \iff a = 0$
+    % \end{enumerate}
 
 
     \subsection{Completeness Axiom}
 
 
 
-    \textbf{Definition 1.10} \emph{Upper bounds} \\
-    Let $E \subset \mathbb{R}$ be non-empty
-    \begin{enumerate}
-        \item The set $E$ is said to be \emph{bounded above} if and only if there is an
-            $M \in \mathbb{R}$ such that $a \leq M$ for all $a \in E$,
-            in which case $M$ is called an \emph{upper bound} of $E$.
-        \item A number $s$ is called a \emph{supremum} of the set $E$ if and only if $s$
-            is an upper bound of $E$ and $s \leq M$ for all upper bounds $M$ of $E$.
-            (In this case we shall say that $E$ has a \emph{finite supremum} $s$ and write
-            $s = \sup E$.)
-    \end{enumerate}
+    % \textbf{Definition 1.10} \emph{Upper bounds} \\
+    % Let $E \subset \mathbb{R}$ be non-empty
+    % \begin{enumerate}
+    %     \item The set $E$ is said to be \emph{bounded above} if and only if there is an
+    %         $M \in \mathbb{R}$ such that $a \leq M$ for all $a \in E$,
+    %         in which case $M$ is called an \emph{upper bound} of $E$.
+    %     \item A number $s$ is called a \emph{supremum} of the set $E$ if and only if $s$
+    %         is an upper bound of $E$ and $s \leq M$ for all upper bounds $M$ of $E$.
+    %         (In this case we shall say that $E$ has a \emph{finite supremum} $s$ and write
+    %         $s = \sup E$.)
+    % \end{enumerate}
 
-    \textbf{Remark 1.12}
-    If a set has one upper bound, it has infinitely many upper bounds.
+    % \textbf{Remark 1.12}
+    % If a set has one upper bound, it has infinitely many upper bounds.
 
-    \textbf{Remark 1.13}
-    If a set has a supremum, then it has only one supremum.
+    % \textbf{Remark 1.13}
+    % If a set has a supremum, then it has only one supremum.
 
-    \textbf{Theorem} \emph{Approximation Property for Suprema} \\
-    If $E$ has a finite supremum and $\epsilon > 0$ is any positive number, then there is a
-    point $a \in E$ such that \\
-    $\sup E - \epsilon < a \leq \sup E$
+    % \textbf{Theorem} \emph{Approximation Property for Suprema} \\
+    % If $E$ has a finite supremum and $\epsilon > 0$ is any positive number, then there is a
+    % point $a \in E$ such that \\
+    % $\sup E - \epsilon < a \leq \sup E$
 
-    \textbf{Theorem 1.15} \\
-    If $E \subset \mathbb{Z}$ has a supremum, then $\sup E \in E$.
-    In particular, if the supremum of a set, which contains only integers, exists,
-    that supremum must be an integer.
+    % \textbf{Theorem 1.15} \\
+    % If $E \subset \mathbb{Z}$ has a supremum, then $\sup E \in E$.
+    % In particular, if the supremum of a set, which contains only integers, exists,
+    % that supremum must be an integer.
 
-    \textbf{Postulate 3} \emph{Completeness Axiom} \\
-    If $E$ is a nonempty subset of $\mathbb{R}$ that is bounded above, then $E$ has a
-    finite
-    supremum.
+    % \textbf{Postulate 3} \emph{Completeness Axiom} \\
+    % If $E$ is a nonempty subset of $\mathbb{R}$ that is bounded above, then $E$ has a
+    % finite
+    % supremum.
 
-    \textbf{Theorem 1.16} \emph{The Archimedean Principle} \\
-    Given real numbers $a$ and $b$, with $a > 0$, there is an integer $n \in \mathbb{N}$
-    such that $b < na$.
+    % \textbf{Theorem 1.16} \emph{The Archimedean Principle} \\
+    % Given real numbers $a$ and $b$, with $a > 0$, there is an integer $n \in \mathbb{N}$
+    % such that $b < na$.
 
-    \textbf{Theorem 1.18} \emph{Density of Rationals} \\
-    If $a, b, \in \mathbb{R}$ satisfy $a < b$, then there is a $q \in \mathbb{Q}$
-    such that $a < q < b$.
+    % \textbf{Theorem 1.18} \emph{Density of Rationals} \\
+    % If $a, b, \in \mathbb{R}$ satisfy $a < b$, then there is a $q \in \mathbb{Q}$
+    % such that $a < q < b$.
 
-    \textbf{Definition 1.19} \emph{Upper bounds} \\
-    Let $E \in \mathbb{R}$ be nonempty
-    \begin{enumerate}
-        \item The set $E$ is said to be \emph{bounded below} if and only if there is an
-            $m \in \mathbb{R}$ such that $a \geq E$, in which case $m$ is called a
-            \emph{lower bound} of the set $E$.
-        \item A number $t$ is called an \emph{infimum} of the set $E$ if and only if $t$
-            is a lower bound of $E$ and $t \geq m$ and write $t = \inf E$.
-        \item $E$ is said to be \emph{bounded} if and only if it is bounded both above and
-            below.
-    \end{enumerate}
+    % \textbf{Definition 1.19} \emph{Upper bounds} \\
+    % Let $E \in \mathbb{R}$ be nonempty
+    % \begin{enumerate}
+    %     \item The set $E$ is said to be \emph{bounded below} if and only if there is an
+    %         $m \in \mathbb{R}$ such that $a \geq E$, in which case $m$ is called a
+    %         \emph{lower bound} of the set $E$.
+    %     \item A number $t$ is called an \emph{infimum} of the set $E$ if and only if $t$
+    %         is a lower bound of $E$ and $t \geq m$ and write $t = \inf E$.
+    %     \item $E$ is said to be \emph{bounded} if and only if it is bounded both above and
+    %         below.
+    % \end{enumerate}
 
-    \textbf{Theorem 1.20} \emph{Reflection Principle} \\
-    Let $E \in \mathbb{R}$ be nonempty
-    \begin{enumerate}
-        \item $E$ has a supremum if and only if $-E$ has an infimum, in which case
-            $\inf (-E) = -\sup E$.
-        \item $E$ has an infimum if and only if $-E$ has a supremum, in which case
-            $\sup (-E) = -\inf E$
-    \end{enumerate}
+    % \textbf{Theorem 1.20} \emph{Reflection Principle} \\
+    % Let $E \in \mathbb{R}$ be nonempty
+    % \begin{enumerate}
+    %     \item $E$ has a supremum if and only if $-E$ has an infimum, in which case
+    %         $\inf (-E) = -\sup E$.
+    %     \item $E$ has an infimum if and only if $-E$ has a supremum, in which case
+    %         $\sup (-E) = -\inf E$
+    % \end{enumerate}
 
-    \textbf{Theorem 1.21} \emph{Monotone Property} \\
-    Suppose that $A \subseteq B$ are nonempty subsets of $\mathbb{R}$.
-    \begin{enumerate}
-        \item If $B$ has a supremum, then $\sup A \leq \sup B$.
-        \item If $B$ has an infimum, then $\inf A \geq \inf B$.
-    \end{enumerate}
+    % \textbf{Theorem 1.21} \emph{Monotone Property} \\
+    % Suppose that $A \subseteq B$ are nonempty subsets of $\mathbb{R}$.
+    % \begin{enumerate}
+    %     \item If $B$ has a supremum, then $\sup A \leq \sup B$.
+    %     \item If $B$ has an infimum, then $\inf A \geq \inf B$.
+    % \end{enumerate}
 
 
     \subsection{Mathematical Induction}
 
 
 
-    \textbf{Theorem 1.22} \emph{Well-Ordering Principle} \\
-    If $E$ is a nonempty subset of $\mathbb{N}$, then $E$ has a least element
-    (i.e.\ $E$ has a finite infimum and $\inf E \in E$).
+    % \textbf{Theorem 1.22} \emph{Well-Ordering Principle} \\
+    % If $E$ is a nonempty subset of $\mathbb{N}$, then $E$ has a least element
+    % (i.e.\ $E$ has a finite infimum and $\inf E \in E$).
 
-    \textbf{Theorem 1.23} \\
-    Suppose for each $n \in \mathbb{N}$ that $A(n)$ is a proposition which satisfies
-    the following two properties:
-    \begin{enumerate}
-        \item $A(1)$ is true.
-        \item For every $n \in \mathbb{N}$ for which $A(n)$ is true, $A(n+1)$ is also true.
-    \end{enumerate}
-    Then $A(n)$ is true for all $n \in \mathbb{N}$.
+    % \textbf{Theorem 1.23} \\
+    % Suppose for each $n \in \mathbb{N}$ that $A(n)$ is a proposition which satisfies
+    % the following two properties:
+    % \begin{enumerate}
+    %     \item $A(1)$ is true.
+    %     \item For every $n \in \mathbb{N}$ for which $A(n)$ is true, $A(n+1)$ is also true.
+    % \end{enumerate}
+    % Then $A(n)$ is true for all $n \in \mathbb{N}$.
 
-    \textbf{Theorem 1.26} \emph{Binomial Formula} \\
-    If $a, b, \in \mathbb{R}, n \in \mathbb{N}$ and $0^0$ is interpreted to be $1$, then
-    \[
-        {(a+b)}^n = \sum_{k=0}^n
-        \begin{pmatrix}
-            n \\ k
-        \end{pmatrix}
-        a^{n-k} b^k
-    \]
+    % \textbf{Theorem 1.26} \emph{Binomial Formula} \\
+    % If $a, b, \in \mathbb{R}, n \in \mathbb{N}$ and $0^0$ is interpreted to be $1$, then
+    % \[
+    %     {(a+b)}^n = \sum_{k=0}^n
+    %     \begin{pmatrix}
+    %         n \\ k
+    %     \end{pmatrix}
+    %     a^{n-k} b^k
+    % \]
 
 
     \subsection{Inverse Functions and Images}
 
 
 
-    \textbf{Definition 1.29} \emph{Injection, Surjection, Bijection} \\
-    Let $X$ and $Y$ be sets and $f : X \to Y$
-    \begin{enumerate}
-        \item $f$ is said to be \emph{injective} if and only if
-            \[
-                x_1, x_2 \in X \ \text{and} \ f(x_1) = f(x_2) \implies x_1 = x_2
-            \]
-        \item $f$ is said to be \emph{surjective} if and only if
-            \[
-                \forall y \in Y \ \exists x \in X \backepsilon y = f(x)
-            \]
+    % \textbf{Definition 1.29} \emph{Injection, Surjection, Bijection} \\
+    % Let $X$ and $Y$ be sets and $f : X \to Y$
+    % \begin{enumerate}
+    %     \item $f$ is said to be \emph{injective} if and only if
+    %         \[
+    %             x_1, x_2 \in X \ \text{and} \ f(x_1) = f(x_2) \implies x_1 = x_2
+    %         \]
+    %     \item $f$ is said to be \emph{surjective} if and only if
+    %         \[
+    %             \forall y \in Y \ \exists x \in X \backepsilon y = f(x)
+    %         \]
 
-        \item $f$ is called \emph{bijective} if and only if it is both injective
-            and surjective
-    \end{enumerate}
+    %     \item $f$ is called \emph{bijective} if and only if it is both injective
+    %         and surjective
+    % \end{enumerate}
 
-    \textbf{Theorem 1.30} \\
-    Let $X$ and $Y$ be sets and $f : X \to Y$.
-    Then the following three statements are equivalent.
-    \begin{enumerate}
-        \item $f$ has an inverse;
-        \item $f$ is injective from $X$ onto $Y$;
-        \item There is a function $g : Y \to X$ such that \\
-            $g(f(x)) = x \quad \forall x \in X$
-            and \\
-            $f(g(y)) = y \quad \forall y \in Y$
-    \end{enumerate}
-    Moreover, for each $f : X \to Y$, there is only one function $g$ that satisfies these.
-    It is the inverse function $f^{-1}$.
+    % \textbf{Theorem 1.30} \\
+    % Let $X$ and $Y$ be sets and $f : X \to Y$.
+    % Then the following three statements are equivalent.
+    % \begin{enumerate}
+    %     \item $f$ has an inverse;
+    %     \item $f$ is injective from $X$ onto $Y$;
+    %     \item There is a function $g : Y \to X$ such that \\
+    %         $g(f(x)) = x \quad \forall x \in X$
+    %         and \\
+    %         $f(g(y)) = y \quad \forall y \in Y$
+    % \end{enumerate}
+    % Moreover, for each $f : X \to Y$, there is only one function $g$ that satisfies these.
+    % It is the inverse function $f^{-1}$.
 
-    \textbf{Remark 1.31} \\
-    Let $I$ be an interval and let $f : I \to \mathbb{R}$.
-    If the derivative of $f$ is either always positive on $I$, or always negative on $I$,
-    then $f$ is injective on $I$.
+    % \textbf{Remark 1.31} \\
+    % Let $I$ be an interval and let $f : I \to \mathbb{R}$.
+    % If the derivative of $f$ is either always positive on $I$, or always negative on $I$,
+    % then $f$ is injective on $I$.
 
-    \textbf{Definition 1.33} \emph{Image} \\
-    Let $X$ and $Y$ be sets and $f : X \to Y$.
-    The \emph{image} of a set $E \subseteq X$ under $f$ is the set
-    \[
-        f(E) := \{ y \in Y : y = f(x) \ \text{for some} \ x \in E \}
-    \]
-    The \emph{inverse image} of a set $E \subseteq Y$ under $f$ is the set
-    \[
-        f^{-1}(E) := \{ x \in X : f(x) = y \ \text{for some} \ y \in E \}
-    \]
+    % \textbf{Definition 1.33} \emph{Image} \\
+    % Let $X$ and $Y$ be sets and $f : X \to Y$.
+    % The \emph{image} of a set $E \subseteq X$ under $f$ is the set
+    % \[
+    %     f(E) := \{ y \in Y : y = f(x) \ \text{for some} \ x \in E \}
+    % \]
+    % The \emph{inverse image} of a set $E \subseteq Y$ under $f$ is the set
+    % \[
+    %     f^{-1}(E) := \{ x \in X : f(x) = y \ \text{for some} \ y \in E \}
+    % \]
 
-    \textbf{Definition 1.35} \emph{Union, Intersection} \\
-    Let $\mathcal{E} = {\{ E_{\alpha} \}}_{\alpha \in A}$ be a collection of sets.
-    \begin{enumerate}
-        \item The \emph{union} of the collection $\mathcal{E}$ is the set
-            \[
-                \bigcup_{\alpha \in A} E_\alpha := \{ x : x \in E_\alpha \ \text{for some}
-                \ \alpha \in A \}
-            \]
-        \item The \emph{intersection} of the collection $\mathcal{E}$ is the set
-            \[
-                \bigcap_{\alpha \in A} E_\alpha := \{ x : x \in E_\alpha \ \text{for all} \
-                \alpha \in A \}.
-            \]
-    \end{enumerate}
-
-
-    \textbf{Theorem 1.36} \emph{DeMorgan's Laws} \\
-    Let $X$ be a set and ${\{ E_\alpha \}}_{\alpha \in A}$ be a collection of subsets of
-    $X$.
-    If for each $E \subseteq X$ the symbol $E^c$ represents the set $X \setminus E$, then
-    ${\left( \bigcup_{\alpha \in A} E_\alpha \right)}^c =
-    \bigcap_{\alpha \in A} E_\alpha^c$
-    and
-    ${\left( \bigcap_{\alpha \in A} E_\alpha \right)}^c =
-    \bigcup_{\alpha \in A} E_\alpha ^c$
+    % \textbf{Definition 1.35} \emph{Union, Intersection} \\
+    % Let $\mathcal{E} = {\{ E_{\alpha} \}}_{\alpha \in A}$ be a collection of sets.
+    % \begin{enumerate}
+    %     \item The \emph{union} of the collection $\mathcal{E}$ is the set
+    %         \[
+    %             \bigcup_{\alpha \in A} E_\alpha := \{ x : x \in E_\alpha \ \text{for some}
+    %             \ \alpha \in A \}
+    %         \]
+    %     \item The \emph{intersection} of the collection $\mathcal{E}$ is the set
+    %         \[
+    %             \bigcap_{\alpha \in A} E_\alpha := \{ x : x \in E_\alpha \ \text{for all} \
+    %             \alpha \in A \}.
+    %         \]
+    % \end{enumerate}
 
 
-    \textbf{Theorem 1.37} \\
-    Let $X$ and $Y$ be sets and $f : X \to Y$.
-    \begin{enumerate}
-        \item If ${\{ E_\alpha \}}{\alpha \in A}$ is a collection of subsets of $X$, then \\
-            $f \left( \bigcup_{\alpha \in A} E_\alpha \right) =
-            \bigcup_{\alpha \in A} f(E_\alpha) \ \text{and} \\
-            f \left( \bigcap_{\alpha \in A} E_\alpha \right) \subseteq
-            \bigcap_{\alpha \in A} f(E_\alpha)$
-        \item If $B$ and $C$ are subsets of $X$, then
-            $f(C) \setminus f(B) \subseteq f(C \setminus B)$
-        \item If ${\{E_\alpha\}}_{\alpha \in A}$ is a collection of subsets of $Y$, then
-            $f^{-1} \left( \bigcup_{\alpha \in A} E_\alpha \right) =
-            \bigcup_{\alpha \in A} f^{-1} (E_\alpha) \ \text{and} \ \\
-            f^{-1} \left( \bigcap_{\alpha \in A} E_\alpha \right) =
-            \bigcap_{\alpha \in A} f^{-1} (E_\alpha)$
-        \item If $B$ and $C$ are subsets of $Y$, then
-            $f^{-1}(C \setminus B) = f^{-1}(C) \setminus f^{-1}(B)$.
-        \item If $E \subseteq f(x)$, then $f(f^{-1}(E)) = E$, but if $E \subseteq X$,
-            then $E \subseteq f^{-1}(f(E))$.
-    \end{enumerate}
+    % \textbf{Theorem 1.36} \emph{DeMorgan's Laws} \\
+    % Let $X$ be a set and ${\{ E_\alpha \}}_{\alpha \in A}$ be a collection of subsets of
+    % $X$.
+    % If for each $E \subseteq X$ the symbol $E^c$ represents the set $X \setminus E$, then
+    % ${\left( \bigcup_{\alpha \in A} E_\alpha \right)}^c =
+    % \bigcap_{\alpha \in A} E_\alpha^c$
+    % and
+    % ${\left( \bigcap_{\alpha \in A} E_\alpha \right)}^c =
+    % \bigcup_{\alpha \in A} E_\alpha ^c$
+
+
+    % \textbf{Theorem 1.37} \\
+    % Let $X$ and $Y$ be sets and $f : X \to Y$.
+    % \begin{enumerate}
+    %     \item If ${\{ E_\alpha \}}{\alpha \in A}$ is a collection of subsets of $X$, then \\
+    %         $f \left( \bigcup_{\alpha \in A} E_\alpha \right) =
+    %         \bigcup_{\alpha \in A} f(E_\alpha) \ \text{and} \\
+    %         f \left( \bigcap_{\alpha \in A} E_\alpha \right) \subseteq
+    %         \bigcap_{\alpha \in A} f(E_\alpha)$
+    %     \item If $B$ and $C$ are subsets of $X$, then
+    %         $f(C) \setminus f(B) \subseteq f(C \setminus B)$
+    %     \item If ${\{E_\alpha\}}_{\alpha \in A}$ is a collection of subsets of $Y$, then
+    %         $f^{-1} \left( \bigcup_{\alpha \in A} E_\alpha \right) =
+    %         \bigcup_{\alpha \in A} f^{-1} (E_\alpha) \ \text{and} \ \\
+    %         f^{-1} \left( \bigcap_{\alpha \in A} E_\alpha \right) =
+    %         \bigcap_{\alpha \in A} f^{-1} (E_\alpha)$
+    %     \item If $B$ and $C$ are subsets of $Y$, then
+    %         $f^{-1}(C \setminus B) = f^{-1}(C) \setminus f^{-1}(B)$.
+    %     \item If $E \subseteq f(x)$, then $f(f^{-1}(E)) = E$, but if $E \subseteq X$,
+    %         then $E \subseteq f^{-1}(f(E))$.
+    % \end{enumerate}
 
 
 
@@ -344,393 +344,378 @@
 
 
 
-    \textbf{Definition 1.38} \emph{Countable \& Uncountable} \\
-    Let $E$ be a set.
-    \begin{enumerate}
-        \item $E$ is said to be \emph{finite} if and only if either $E = \emptyset$
-            or there exists an injective function which takes
-            $\{ 1, 2, \ldots, n \}$ onto $E$, for some $n \in \mathbb{N}$.
-        \item $E$ is said to be \emph{countable} if and only if there exists and injective
-            function which takes $\mathbb{N}$ onto $E$.
-        \item $E$ is said to be \emph{at most countable} if and only if $E$ is either
-            finite or countable.
-        \item $E$ is said to be \emph{uncountable} if and only if $E$ is neither finite nor
-            countable.
-    \end{enumerate}
+    % \textbf{Definition 1.38} \emph{Countable \& Uncountable} \\
+    % Let $E$ be a set.
+    % \begin{enumerate}
+    %     \item $E$ is said to be \emph{finite} if and only if either $E = \emptyset$
+    %         or there exists an injective function which takes
+    %         $\{ 1, 2, \ldots, n \}$ onto $E$, for some $n \in \mathbb{N}$.
+    %     \item $E$ is said to be \emph{countable} if and only if there exists and injective
+    %         function which takes $\mathbb{N}$ onto $E$.
+    %     \item $E$ is said to be \emph{at most countable} if and only if $E$ is either
+    %         finite or countable.
+    %     \item $E$ is said to be \emph{uncountable} if and only if $E$ is neither finite nor
+    %         countable.
+    % \end{enumerate}
 
-    \textbf{Remark 1.39} \emph{Cantor's Diagonalisation Argument} \\
-    The open interval $(0, 1)$ is uncountable.
+    % \textbf{Remark 1.39} \emph{Cantor's Diagonalisation Argument} \\
+    % The open interval $(0, 1)$ is uncountable.
 
-    \textbf{Lemma 1.40} \\
-    A nonempty set $E$ is at most countable if and only if there is a function $g$ from
-    $\mathbb{N}$ onto $E$.
+    % \textbf{Lemma 1.40} \\
+    % A nonempty set $E$ is at most countable if and only if there is a function $g$ from
+    % $\mathbb{N}$ onto $E$.
 
-    \textbf{Theorem 1.41} \\
-    Suppose $A$ and $B$ are sets.
-    \begin{enumerate}
-        \item If $A \subseteq B$ and $B$ is at most countable, then $A$ is at most
-            countable.
-        \item If $A \subseteq B$ and $A$ is uncountable, then $B$ is uncountable.
-        \item $\mathbb{R}$ is uncountable.
-    \end{enumerate}
+    % \textbf{Theorem 1.41} \\
+    % Suppose $A$ and $B$ are sets.
+    % \begin{enumerate}
+    %     \item If $A \subseteq B$ and $B$ is at most countable, then $A$ is at most
+    %         countable.
+    %     \item If $A \subseteq B$ and $A$ is uncountable, then $B$ is uncountable.
+    %     \item $\mathbb{R}$ is uncountable.
+    % \end{enumerate}
 
-    \textbf{Theorem 1.42} \\
-    Let $A_1, A_2, \ldots$ be at most countable sets.
-    \begin{enumerate}
-        \item Then $A_1 \times A_2$ is at most countable.
-        \item If
-            \[
-                E = \bigcup_{j=1}^\infty A_j :=
-                \bigcup_{j \in \mathbb{N}} A_j :=
-                \{ x : x \in A_j \ \text{for some} \ j \in \mathbb{N} \},
-            \]
-            then $E$ is at most countable.
-    \end{enumerate}
+    % \textbf{Theorem 1.42} \\
+    % Let $A_1, A_2, \ldots$ be at most countable sets.
+    % \begin{enumerate}
+    %     \item Then $A_1 \times A_2$ is at most countable.
+    %     \item If
+    %         \[
+    %             E = \bigcup_{j=1}^\infty A_j :=
+    %             \bigcup_{j \in \mathbb{N}} A_j :=
+    %             \{ x : x \in A_j \ \text{for some} \ j \in \mathbb{N} \},
+    %         \]
+    %         then $E$ is at most countable.
+    % \end{enumerate}
 
-    \textbf{Remark 1.43} \\
-    The sets $\mathbb{Z}$ and $\mathbb{Q}$ are countable, but the set of irrationals is
-    uncountable.
-
-
-
+    % \textbf{Remark 1.43} \\
+    % The sets $\mathbb{Z}$ and $\mathbb{Q}$ are countable, but the set of irrationals is
+    % uncountable.
 
     \section{Sequences in $\mathbb{R}$}
 
     \subsection{Limits of Sequences}
 
+    % \textbf{Definition 2.1} \emph{Convergence} \\
+    % A sequence of real numbers $\{ x_n \}$ is set to \emph{converge} to a real number
+    % $a \in \mathbb{R}$ if and only if for every $\epsilon > 0$ there is an
+    % $N \in \mathbb{N}$ (which in general depends on $\epsilon$) such that
+    % \[
+    %     n \geq N \implies |x_n - a| < \epsilon
+    % \]
 
+    % \textbf{Remark 2.4}
+    % A sequence can have at most one limit.
 
-    \textbf{Definition 2.1} \emph{Convergence} \\
-    A sequence of real numbers $\{ x_n \}$ is set to \emph{converge} to a real number
-    $a \in \mathbb{R}$ if and only if for every $\epsilon > 0$ there is an
-    $N \in \mathbb{N}$ (which in general depends on $\epsilon$) such that
-    \[
-        n \geq N \implies |x_n - a| < \epsilon
-    \]
+    % \textbf{Definition 2.5} \emph{Subsequence} \\
+    % By a \emph{subsequence} of a sequence ${\{x_n\}}_{n \in \mathbb{N}}$,
+    % we shall mean a sequence of the form ${\{x_{n_k}\}}_{k \in \mathbb{N}}$,
+    % where each $n_k \in \mathbb{N}$ and $n_1 < n_2 < \cdots$.
 
-    \textbf{Remark 2.4}
-    A sequence can have at most one limit.
+    % \textbf{Remark 2.6} \\
+    % If ${ \{x_n\} }_{n \in \mathbb{N}}$ converges to $a$ and
+    % ${ \{x_n_k\} }{k \in \mathbb{N}}$ is any subsequence of
+    % ${ \{x_n\} }_{n \in \mathbb{N}}$, then $x_n_k$ converges to $a$ as $k \to \infty$.
 
-    \textbf{Definition 2.5} \emph{Subsequence} \\
-    By a \emph{subsequence} of a sequence ${\{x_n\}}_{n \in \mathbb{N}}$,
-    we shall mean a sequence of the form ${\{x_{n_k}\}}_{k \in \mathbb{N}}$,
-    where each $n_k \in \mathbb{N}$ and $n_1 < n_2 < \cdots$.
+    % \textbf{Definition 2.7} \emph{Bounded Sequences} \\
+    % Let $\{ x_n \}$ be a sequence of real numbers.
+    % \begin{enumerate}
+    %     \item The sequence $\{ x_n \}$ is said to be \emph{bounded above} if and only if
+    %         the set $ \{ x_n : n \in \mathbb{N} \}$ is bounded above.
+    %     \item The sequence $\{ x_n \}$ is said to be \emph{bounded below} if and only if
+    %         the set $\{ x_n : n \in \mathbb{N} \}$ is bounded below.
+    %     \item $\{ x_n \}$ is said to be \emph{bounded} if and only if it is bounded both
+    %         above and below.
+    % \end{enumerate}
 
-    \textbf{Remark 2.6} \\
-    If ${ \{x_n\} }_{n \in \mathbb{N}}$ converges to $a$ and
-    ${ \{x_n_k\} }{k \in \mathbb{N}}$ is any subsequence of
-    ${ \{x_n\} }_{n \in \mathbb{N}}$, then $x_n_k$ converges to $a$ as $k \to \infty$.
-
-    \textbf{Definition 2.7} \emph{Bounded Sequences} \\
-    Let $\{ x_n \}$ be a sequence of real numbers.
-    \begin{enumerate}
-        \item The sequence $\{ x_n \}$ is said to be \emph{bounded above} if and only if
-            the set $ \{ x_n : n \in \mathbb{N} \}$ is bounded above.
-        \item The sequence $\{ x_n \}$ is said to be \emph{bounded below} if and only if
-            the set $\{ x_n : n \in \mathbb{N} \}$ is bounded below.
-        \item $\{ x_n \}$ is said to be \emph{bounded} if and only if it is bounded both
-            above and below.
-    \end{enumerate}
-
-    \textbf{Theorem 2.8}
-    Every convergent sequence is bounded.
-
+    % \textbf{Theorem 2.8}
+    % Every convergent sequence is bounded.
 
     \subsection{Limit Theorems}
 
+    % \textbf{Theorem 2.9} \emph{Squeeze Theorem} \\
+    % Suppose that $\{x_n\}, \{y_n\}$, and $\{w_n\}$ are real sequences.
+    % \begin{enumerate}
+    %     \item If $x_n \to a$ and $y_n \to a$ as $n \to \infty$,
+    %         and if there is an $N_0 \in \mathbb{N}$ such that
+    %         \[
+    %             x_n \leq w_n \leq y_n \ \text{for} \ n \geq N_0
+    %         \]
+    %         then $w_n \to a$ as $n \to \infty$.
+    %     \item If $x_n \to 0$ as $n \to \infty$ and $\{y_n\}$ is bounded,
+    %         then $x_n y_n \to 0$ as $n \to \infty$.
+    % \end{enumerate}
 
+    % \textbf{Theorem 2.11} \\
+    % Let $E \subset \mathbb{R}$.
+    % If $E$ has a finite supremum (respectively, a finite infimum),
+    % then there is a sequence $x_n \in E$ such that $x_n \to \sup E$
+    % (respectively, a sequence $y_n \in E$ such that $y_n \to \inf E$)
+    % as $n \to \infty$.
 
-    \textbf{Theorem 2.9} \emph{Squeeze Theorem} \\
-    Suppose that $\{x_n\}, \{y_n\}$, and $\{w_n\}$ are real sequences.
-    \begin{enumerate}
-        \item If $x_n \to a$ and $y_n \to a$ as $n \to \infty$,
-            and if there is an $N_0 \in \mathbb{N}$ such that
-            \[
-                x_n \leq w_n \leq y_n \ \text{for} \ n \geq N_0
-            \]
-            then $w_n \to a$ as $n \to \infty$.
-        \item If $x_n \to 0$ as $n \to \infty$ and $\{y_n\}$ is bounded,
-            then $x_n y_n \to 0$ as $n \to \infty$.
-    \end{enumerate}
+    % \textbf{Theorem 2.12} \\
+    % Suppose that $\{x_n\}$ and $\{y_n\}$ are real sequences and that
+    % $\alpha \in \mathbb{R}$.
+    % If $\{x_n\}$ and $\{y_n\}$ are convergent, then
+    % \begin{enumerate}
+    %     \item $\lim_{n \to \infty} (x_n + y_n) =
+    %         \lim_{n \to \infty} x_n + \lim_{n \to \infty} y_n$
+    %     \item $\lim_{n \to \infty} (\alpha x_n) = \alpha \lim_{n \to \infty} x_n$
+    %         and
+    %     \item $\lim_{n \to \infty} (x_n y_n) =
+    %         ( \lim_{n \to \infty} x_n ) (\lim_{n \to \infty} y_n)$ \\
+    %         If, in addition, $y_n \neq 0$ and $\lim_{n \to \infty} y_n \neq 0$, then
+    %     \item $\lim_{n \to \infty} \frac{x_n}{y_n} =
+    %         \frac{\lim_{n \to \infty} x_n}{\lim_{n \to \infty} y_n}$ \\
+    %         (In particular, all these limits exist.)
+    % \end{enumerate}
 
-    \textbf{Theorem 2.11} \\
-    Let $E \subset \mathbb{R}$.
-    If $E$ has a finite supremum (respectively, a finite infimum),
-    then there is a sequence $x_n \in E$ such that $x_n \to \sup E$
-    (respectively, a sequence $y_n \in E$ such that $y_n \to \inf E$)
-    as $n \to \infty$.
+    % \textbf{Definition 2.14} \emph{Divergence} \\
+    % Let $\{x_n\}$ be a sequence of real numbers.
+    % \begin{enumerate}
+    %     \item $\{x_n\}$ is said to \emph{diverge} to $+\infty$ if and only if for each
+    %         $M \in \mathbb{R}$ there is an $N \in \mathbb{N}$ such that \\
+    %         $n \geq N \implies x_n > M$
+    %     \item $\{x_n\}$ is said to \emph{diverge} to $-\infty$ if and only if for each
+    %         $M \in \mathbb{R}$ there is an $N \in \mathbb{N}$ such that \\
+    %         $n \geq N \implies x_n < M$
+    % \end{enumerate}
 
-    \textbf{Theorem 2.12} \\
-    Suppose that $\{x_n\}$ and $\{y_n\}$ are real sequences and that
-    $\alpha \in \mathbb{R}$.
-    If $\{x_n\}$ and $\{y_n\}$ are convergent, then
-    \begin{enumerate}
-        \item $\lim_{n \to \infty} (x_n + y_n) =
-            \lim_{n \to \infty} x_n + \lim_{n \to \infty} y_n$
-        \item $\lim_{n \to \infty} (\alpha x_n) = \alpha \lim_{n \to \infty} x_n$
-            and
-        \item $\lim_{n \to \infty} (x_n y_n) =
-            ( \lim_{n \to \infty} x_n ) (\lim_{n \to \infty} y_n)$ \\
-            If, in addition, $y_n \neq 0$ and $\lim_{n \to \infty} y_n \neq 0$, then
-        \item $\lim_{n \to \infty} \frac{x_n}{y_n} =
-            \frac{\lim_{n \to \infty} x_n}{\lim_{n \to \infty} y_n}$ \\
-            (In particular, all these limits exist.)
-    \end{enumerate}
+    % \textbf{Theorem 2.15} \\
+    % Suppose that $\{x_n\}$ and $\{y_n\}$ are real sequences such that $x_n \to +\infty$
+    % (respectively, $x_n \to -\infty$) as $n \to \infty$.
+    % \begin{enumerate}
+    %     \item If $y_n$ is bounded below (respectively, $y_n$ is bounded above), then
+    %         $\lim_{n \to \infty} (x_n + y_n) = +\infty$
+    %     \item If $\alpha > 0$, then
+    %         $\lim_{n \to \infty} (\alpha x_n) = +\infty$
+    %     \item If $y_n > M_0$ for some $M_0 > 0$ and all $n \in \mathbb{N}$, then
+    %         $\lim_{n \to \infty} (x_n y_n) = +\infty$
+    %     \item If $\{y_n\}$ is bounded and $x_n \neq 0$, then
+    %         $\lim_{n \to \infty} \frac{y_n}{x_n} = 0$
+    % \end{enumerate}
 
-    \textbf{Definition 2.14} \emph{Divergence} \\
-    Let $\{x_n\}$ be a sequence of real numbers.
-    \begin{enumerate}
-        \item $\{x_n\}$ is said to \emph{diverge} to $+\infty$ if and only if for each
-            $M \in \mathbb{R}$ there is an $N \in \mathbb{N}$ such that \\
-            $n \geq N \implies x_n > M$
-        \item $\{x_n\}$ is said to \emph{diverge} to $-\infty$ if and only if for each
-            $M \in \mathbb{R}$ there is an $N \in \mathbb{N}$ such that \\
-            $n \geq N \implies x_n < M$
-    \end{enumerate}
+    % \textbf{Corollary 2.16} \\
+    % Let $\{x_n\}$, $\{y_n\}$ be real sequences and $\alpha, x, y$ be extended real numbers.
+    % If $x_n \to x$ and $y_n \to y$, as $n \to \infty$, then \\
+    % $\lim_{n \to \infty} (x_n + y_n) = x + y$
+    % provided that the right side is not of the form $\infty - \infty$, and \\
+    % $\lim_{n \to \infty} (\alpha x_n) = \alpha x, \quad
+    % \lim_{n \to \infty} (x_n y_n) = xy$ \\
+    % provided that none of these products is of the form $0 \cdot \pm \infty$.
 
-    \textbf{Theorem 2.15} \\
-    Suppose that $\{x_n\}$ and $\{y_n\}$ are real sequences such that $x_n \to +\infty$
-    (respectively, $x_n \to -\infty$) as $n \to \infty$.
-    \begin{enumerate}
-        \item If $y_n$ is bounded below (respectively, $y_n$ is bounded above), then
-            $\lim_{n \to \infty} (x_n + y_n) = +\infty$
-        \item If $\alpha > 0$, then
-            $\lim_{n \to \infty} (\alpha x_n) = +\infty$
-        \item If $y_n > M_0$ for some $M_0 > 0$ and all $n \in \mathbb{N}$, then
-            $\lim_{n \to \infty} (x_n y_n) = +\infty$
-        \item If $\{y_n\}$ is bounded and $x_n \neq 0$, then
-            $\lim_{n \to \infty} \frac{y_n}{x_n} = 0$
-    \end{enumerate}
-
-    \textbf{Corollary 2.16} \\
-    Let $\{x_n\}$, $\{y_n\}$ be real sequences and $\alpha, x, y$ be extended real numbers.
-    If $x_n \to x$ and $y_n \to y$, as $n \to \infty$, then \\
-    $\lim_{n \to \infty} (x_n + y_n) = x + y$
-    provided that the right side is not of the form $\infty - \infty$, and \\
-    $\lim_{n \to \infty} (\alpha x_n) = \alpha x, \quad
-    \lim_{n \to \infty} (x_n y_n) = xy$ \\
-    provided that none of these products is of the form $0 \cdot \pm \infty$.
-
-    \textbf{Theorem 2.17} \emph{Comparison Theorem} \\
-    Suppose that $\{x_n\}$ and $\{y_n\}$ are convergent sequences.
-    If there is an $N_0 \in \mathbb{N}$ such that
-    $x_n \leq y_n \ \text{for} \ n \geq N_0$
-    then
-    $\lim_{n \to \infty} x_n \leq \lim_{n \to \infty} y_n$. \\
-    In particular, if $x_n \in [a, b]$ converges to some point $c$,
-    then $c$ must belong to $[a, b]$.
+    % \textbf{Theorem 2.17} \emph{Comparison Theorem} \\
+    % Suppose that $\{x_n\}$ and $\{y_n\}$ are convergent sequences.
+    % If there is an $N_0 \in \mathbb{N}$ such that
+    % $x_n \leq y_n \ \text{for} \ n \geq N_0$
+    % then
+    % $\lim_{n \to \infty} x_n \leq \lim_{n \to \infty} y_n$. \\
+    % In particular, if $x_n \in [a, b]$ converges to some point $c$,
+    % then $c$ must belong to $[a, b]$.
 
 
     \subsection{Bolzano-Weierstrass Theorem}
 
 
 
-    \textbf{Definition 2.18} \emph{Increasing, Decreasing} \\
-    Let ${\{x_n\}}_{n \in \mathbb{N}}$ be a sequence of real numbers.
-    \begin{enumerate}
-        \item $\{x_n\}$ is said to be \emph{increasing}
-            (respectively, \emph{strictly increasing}) if and only if
-            $x_1 \leq x_2 \leq \cdots (\text{respectively}, x_1 < x_2 < \cdots)$.
-        \item $\{x_n\}$ is said to be \emph{decreasing}
-            (respectively, \emph{strictly decreasing}) if and only if
-            $x_1 \geq x_2 \geq \cdots (\text{respectively}, x_1 > x_2 > \cdots)$.
-        \item $\{x_n\}$ is said to be \emph{monotone} if and only if it is either
-            increasing or decreasing.
-    \end{enumerate}
+    % \textbf{Definition 2.18} \emph{Increasing, Decreasing} \\
+    % Let ${\{x_n\}}_{n \in \mathbb{N}}$ be a sequence of real numbers.
+    % \begin{enumerate}
+    %     \item $\{x_n\}$ is said to be \emph{increasing}
+    %         (respectively, \emph{strictly increasing}) if and only if
+    %         $x_1 \leq x_2 \leq \cdots (\text{respectively}, x_1 < x_2 < \cdots)$.
+    %     \item $\{x_n\}$ is said to be \emph{decreasing}
+    %         (respectively, \emph{strictly decreasing}) if and only if
+    %         $x_1 \geq x_2 \geq \cdots (\text{respectively}, x_1 > x_2 > \cdots)$.
+    %     \item $\{x_n\}$ is said to be \emph{monotone} if and only if it is either
+    %         increasing or decreasing.
+    % \end{enumerate}
 
-    \textbf{Theorem 2.19} \emph{Monotone Convergence Theorem} \\
-    If $\{x_n\}$ is increasing and bounded above, or if $\{x_n\}$ is decreasing and bounded
-    below, then $\{x_n\}$ converges to a finite limit.
+    % \textbf{Theorem 2.19} \emph{Monotone Convergence Theorem} \\
+    % If $\{x_n\}$ is increasing and bounded above, or if $\{x_n\}$ is decreasing and bounded
+    % below, then $\{x_n\}$ converges to a finite limit.
 
-    \textbf{Definition 2.22} \emph{Nested} \\
-    A sequence of sets ${\{I_n\}}_{n \in \mathbb{N}}$ is said to be \emph{nested}
-    if and only if
-    $I_1 \supseteq I_2 \supseteq \cdots$.
+    % \textbf{Definition 2.22} \emph{Nested} \\
+    % A sequence of sets ${\{I_n\}}_{n \in \mathbb{N}}$ is said to be \emph{nested}
+    % if and only if
+    % $I_1 \supseteq I_2 \supseteq \cdots$.
 
-    \textbf{Theorem 2.23} \emph{Nested Interval Property} \\
-    If ${\{I_n\}}_{n \in \mathbb{N}}$ is a nested sequence of nonempty closed bounded
-    intervals, then $E := \bigcap_{n=1}^\infty I_n$ is nonempty.
-    Moreover, if the lengths of these intervals satisfy $|I_n| \to 0$ as $n \to \infty$
-    then $E$ is a single point.
+    % \textbf{Theorem 2.23} \emph{Nested Interval Property} \\
+    % If ${\{I_n\}}_{n \in \mathbb{N}}$ is a nested sequence of nonempty closed bounded
+    % intervals, then $E := \bigcap_{n=1}^\infty I_n$ is nonempty.
+    % Moreover, if the lengths of these intervals satisfy $|I_n| \to 0$ as $n \to \infty$
+    % then $E$ is a single point.
 
-    \textbf{Remark 2.24}
-    The Nested Interval Property might not hold if ``closed'' is omitted.
+    % \textbf{Remark 2.24}
+    % The Nested Interval Property might not hold if ``closed'' is omitted.
 
-    \textbf{Remark 2.25}
-    The Nested Interval Property might not hold if ``bounded'' is omitted.
+    % \textbf{Remark 2.25}
+    % The Nested Interval Property might not hold if ``bounded'' is omitted.
 
-    \textbf{Theorem 2.26} \emph{Bolzano---Weierstrass Theorem} \\
-    Every bounded sequence of real numbers has a convergent subsequence.
+    % \textbf{Theorem 2.26} \emph{Bolzano---Weierstrass Theorem} \\
+    % Every bounded sequence of real numbers has a convergent subsequence.
 
 
     \subsection{Cauchy Sequences}
 
 
 
-    \textbf{Definition 2.27} \emph{Cauchy} \\
-    A sequence of points $x_n \in \mathbb{R}$ is said to be \emph{Cauchy} (in \mathbb{R})
-    if and only if for every $\epsilon > 0$ there is an $N \in \mathbb{N}$ such that \\
-    $n, m \geq N \implies |x_n - x_m| < \epsilon$
+    % \textbf{Definition 2.27} \emph{Cauchy} \\
+    % A sequence of points $x_n \in \mathbb{R}$ is said to be \emph{Cauchy} (in \mathbb{R})
+    % if and only if for every $\epsilon > 0$ there is an $N \in \mathbb{N}$ such that \\
+    % $n, m \geq N \implies |x_n - x_m| < \epsilon$
 
-    \textbf{Remark 2.28}
-    If $\{x_n\}$ is convergent, then $\{x_n\}$ is Cauchy.
+    % \textbf{Remark 2.28}
+    % If $\{x_n\}$ is convergent, then $\{x_n\}$ is Cauchy.
 
-    \textbf{Theorem 2.29} \emph{Cauchy} \\
-    Let $\{x_n\}$ be a sequence of real numbers.
-    Then $\{x_n\}$ is Cauchy if and only if $\{x_n\}$ converges
-    (to some point $a \in \mathbb{R}$).
+    % \textbf{Theorem 2.29} \emph{Cauchy} \\
+    % Let $\{x_n\}$ be a sequence of real numbers.
+    % Then $\{x_n\}$ is Cauchy if and only if $\{x_n\}$ converges
+    % (to some point $a \in \mathbb{R}$).
 
-    \textbf{Remark 2.31}
-    A sequence that satisfies $x_{n+1} - x_n \to 0$ is not necessarily Cauchy.
+    % \textbf{Remark 2.31}
+    % A sequence that satisfies $x_{n+1} - x_n \to 0$ is not necessarily Cauchy.
 
 
     \subsection{Limits Supremum and Infimum}
 
 
 
-    \textbf{Definition 2.32} \emph{Limit Supremum \& Infimum} \\
-    Let $\{x_n\}$ be a real sequence.
-    Then the \emph{limit supremum} of $\{x_n\}$ is the extended real number \\
-    $\limsup_{n \to \infty} x_n := \lim_{n \to \infty} (\sup_{k \geq n} x_k)$ \\
-    and the \emph{limit infimum} of $\{x_n\}$ is the extended real number \\
-    $\liminf_{n \to \infty} x_n := \lim_{n \to \infty} (\inf_{k \geq n} x_k)$
+    % \textbf{Definition 2.32} \emph{Limit Supremum \& Infimum} \\
+    % Let $\{x_n\}$ be a real sequence.
+    % Then the \emph{limit supremum} of $\{x_n\}$ is the extended real number \\
+    % $\limsup_{n \to \infty} x_n := \lim_{n \to \infty} (\sup_{k \geq n} x_k)$ \\
+    % and the \emph{limit infimum} of $\{x_n\}$ is the extended real number \\
+    % $\liminf_{n \to \infty} x_n := \lim_{n \to \infty} (\inf_{k \geq n} x_k)$
 
-    \textbf{Theorem 2.35} \\
-    Let $\{x_n\}$ be a sequence of real numbers, \\
-    $s = \limsup_{n \to \infty} x_n$,
-    and $t = \liminf_{n \to \infty} x_n$. \\
-    Then there are subsequences ${\{x_n_k\}}_{k \in \mathbb{N}}$ and
-    ${\{x_\ell_j\}}_{j \in \mathbb{N}}$ such that
-    $x_n_k \to s$ as $k \to \infty$ and $x_\ell_j \to t$ as $j \to \infty$.
-
-
-    \textbf{Theorem 2.36} \\
-    Let $\{x_n\}$ be a real sequence and $x$ be an extended real number.
-    Then $x_n \to x$ as $n \to \infty$ if and only if \\
-    $\limsup_{n \to \infty} x_n = \liminf_{n \to \infty} x_n = x$.
+    % \textbf{Theorem 2.35} \\
+    % Let $\{x_n\}$ be a sequence of real numbers, \\
+    % $s = \limsup_{n \to \infty} x_n$,
+    % and $t = \liminf_{n \to \infty} x_n$. \\
+    % Then there are subsequences ${\{x_n_k\}}_{k \in \mathbb{N}}$ and
+    % ${\{x_\ell_j\}}_{j \in \mathbb{N}}$ such that
+    % $x_n_k \to s$ as $k \to \infty$ and $x_\ell_j \to t$ as $j \to \infty$.
 
 
-    \textbf{Theorem 2.37} \\
-    Let $\{x_n\}$ be a sequence of real numbers.
-    Then $\limsup_{n \to \infty} x_n$ (respectively, $\liminf_{n \to \infty}$) is the
-    largest value (respectively, the smallest value) to which some subsequences of
-    $\{x_n\}$ converges.
-    Namely, if $x_n_k \to x$ as $k \to \infty$, then \\
-    $\liminf_{n \to \infty} x_n \leq x \leq \limsup_{n \to \infty} x_n$.
+    % \textbf{Theorem 2.36} \\
+    % Let $\{x_n\}$ be a real sequence and $x$ be an extended real number.
+    % Then $x_n \to x$ as $n \to \infty$ if and only if \\
+    % $\limsup_{n \to \infty} x_n = \liminf_{n \to \infty} x_n = x$.
 
-    \textbf{Remark 2.38}
-    If $\{x_n\}$ is any sequence of real numbers, then
-    $\liminf_{n \to \infty} x_n \leq \limsup_{n \to \infty} x_n$.
 
-    \textbf{Remark 2.39}
-    A real sequence $\{x_n\}$ is bounded above if and only if
-    $\limsup_{n \to \infty} x_n < \infty$, and is bounded below if and only if
-    $\liminf_{n \to \infty} x_n > -\infty$.
+    % \textbf{Theorem 2.37} \\
+    % Let $\{x_n\}$ be a sequence of real numbers.
+    % Then $\limsup_{n \to \infty} x_n$ (respectively, $\liminf_{n \to \infty}$) is the
+    % largest value (respectively, the smallest value) to which some subsequences of
+    % $\{x_n\}$ converges.
+    % Namely, if $x_n_k \to x$ as $k \to \infty$, then \\
+    % $\liminf_{n \to \infty} x_n \leq x \leq \limsup_{n \to \infty} x_n$.
 
-    \textbf{Theorem 2.40} \\
-    If $x_n \leq y_n$ for $n$ large, then \\
-    $\limsup_{n \to \infty} x_n \leq \limsup_{n \to \infty} y_n \ \text{and} \\
-    \liminf_{n \to \infty} y_n \leq \liminf_{n \to \infty} y_n$
+    % \textbf{Remark 2.38}
+    % If $\{x_n\}$ is any sequence of real numbers, then
+    % $\liminf_{n \to \infty} x_n \leq \limsup_{n \to \infty} x_n$.
 
+    % \textbf{Remark 2.39}
+    % A real sequence $\{x_n\}$ is bounded above if and only if
+    % $\limsup_{n \to \infty} x_n < \infty$, and is bounded below if and only if
+    % $\liminf_{n \to \infty} x_n > -\infty$.
+
+    % \textbf{Theorem 2.40} \\
+    % If $x_n \leq y_n$ for $n$ large, then \\
+    % $\limsup_{n \to \infty} x_n \leq \limsup_{n \to \infty} y_n \ \text{and} \\
+    % \liminf_{n \to \infty} y_n \leq \liminf_{n \to \infty} y_n$
 
     \section{Functions on \mathbb{R}}
 
     \subsection{Two-Sided Limits}
 
+    % \textbf{Definition 3.1} \emph{Limits} \\
+    % Let $a \in \mathbb{R}$, let $I$ be an open interval which contains $a$, and let $f$ be
+    % a real function defined everywhere on $I$ except possibly at $a$.
+    % Then $f(x)$ is said to \emph{converge to $L$, as $x$ approaches $a$},
+    % if and only if for every $\epsilon > 0$ there is a $\delta > 0$
+    % (which in general depends on $\epsilon, f, I$, and $a$) such that
+    % \[
+    %     0 < |x - a| < \delta \implies |f(x) - L| < \epsilon
+    % \]
+    % In this case we write
+    % \[
+    %     L = \lim_{x \to a} f(x) \quad \text{or} \quad f(x) \to L \ \text{as} \ x \to a
+    % \]
+    % and call $L$ the \emph{limit} of $f(x)$ as $x$ approaches $a$.
 
 
-    \textbf{Definition 3.1} \emph{Limits} \\
-    Let $a \in \mathbb{R}$, let $I$ be an open interval which contains $a$, and let $f$ be
-    a real function defined everywhere on $I$ except possibly at $a$.
-    Then $f(x)$ is said to \emph{converge to $L$, as $x$ approaches $a$},
-    if and only if for every $\epsilon > 0$ there is a $\delta > 0$
-    (which in general depends on $\epsilon, f, I$, and $a$) such that
-    \[
-        0 < |x - a| < \delta \implies |f(x) - L| < \epsilon
-    \]
-    In this case we write
-    \[
-        L = \lim_{x \to a} f(x) \quad \text{or} \quad f(x) \to L \ \text{as} \ x \to a
-    \]
-    and call $L$ the \emph{limit} of $f(x)$ as $x$ approaches $a$.
+    % \textbf{Remark 3.4} \\
+    % Let $a \in \mathbb{R}$, let $I$ be an open interval which contains $a$, and let
+    % $f$, $g$ be real functions defined everywhere on $I$ except possibly at $a$.
+    % If $f(x) = g(x)$ for all $x \in I \setminus \{a\}$ and $f(x) \to L$ as
+    % $x \to a$, then $g(x)$ also has a limit as $x \to a$, and
+    % \[
+    %     \lim_{x \to a} g(x) = \lim_{x \to a} f(x)
+    % \]
 
 
-    \textbf{Remark 3.4} \\
-    Let $a \in \mathbb{R}$, let $I$ be an open interval which contains $a$, and let
-    $f$, $g$ be real functions defined everywhere on $I$ except possibly at $a$.
-    If $f(x) = g(x)$ for all $x \in I \setminus \{a\}$ and $f(x) \to L$ as
-    $x \to a$, then $g(x)$ also has a limit as $x \to a$, and
-    \[
-        \lim_{x \to a} g(x) = \lim_{x \to a} f(x)
-    \]
+    % \textbf{Theorem 3.6} \emph{Sequential Characterisation of Limits} \\
+    % Let $a \in \mathbb{R}$, let $I$ be an open interval which contains $a$, and let
+    % $f$ be a real function defined everywhere on $I$ except possibly at $a$.
+    % Then
+    % \[
+    %     L = \lim_{x \to a} f(x)
+    % \]
+    % exists if and only if $f(x_n) \to L$ as $n \to \infty$ for every sequence
+    % $\{x_n\} \in I \setminus \{a\}$ which converges to $a$ as $n \to \infty$.
 
 
-    \textbf{Theorem 3.6} \emph{Sequential Characterisation of Limits} \\
-    Let $a \in \mathbb{R}$, let $I$ be an open interval which contains $a$, and let
-    $f$ be a real function defined everywhere on $I$ except possibly at $a$.
-    Then
-    \[
-        L = \lim_{x \to a} f(x)
-    \]
-    exists if and only if $f(x_n) \to L$ as $n \to \infty$ for every sequence
-    $\{x_n\} \in I \setminus \{a\}$ which converges to $a$ as $n \to \infty$.
+    % \textbf{Theorem 3.8} \\
+    % Suppose that $a \in \mathbb{R}$, that $I$ is an open interval which contains $a$,
+    % and that $f$, $g$, are real functions defined everywhere on $I$ except possibly
+    % at $a$.
+    % If $f(x)$ and $g(x)$ converge as $x$ approaches $a$, then so do
+    % $(f + g)(x), (fg)(x), (\alpha f)(x)$, and $(f/g)(x)$
+    % (when the limit of $g(x)$ is nonzer).
+    % In fact,
+    % \begin{align*}{}
+    %     \lim_{x \to a} (f + g)(x) &= \lim_{x \to a} + \lim_{x \to a} g(x) \\
+    %     \lim_{x \to a} (\alpha f)(x) &= \aplha \lim_{x \to a} f(x) \\
+    %     \lim_{x \to a} (fg)(x) &= \lim_{x \to a} \lim_{x \to a} g(x) \\
+    % \end{align*}
+    % and (when the limit of $g(x)$ is nonzero)
+    % \[
+    %     \lim_{x \to a} \left( \frac{f}{g} \right) (x) &=
+    %     \frac{\lim_{x \to a} f(x)}{\lim_{x \to a} g(x)}
+    % \]
 
 
-    \textbf{Theorem 3.8} \\
-    Suppose that $a \in \mathbb{R}$, that $I$ is an open interval which contains $a$,
-    and that $f$, $g$, are real functions defined everywhere on $I$ except possibly
-    at $a$.
-    If $f(x)$ and $g(x)$ converge as $x$ approaches $a$, then so do
-    $(f + g)(x), (fg)(x), (\alpha f)(x)$, and $(f/g)(x)$
-    (when the limit of $g(x)$ is nonzer).
-    In fact,
-    \begin{align*}{}
-        \lim_{x \to a} (f + g)(x) &= \lim_{x \to a} + \lim_{x \to a} g(x) \\
-        \lim_{x \to a} (\alpha f)(x) &= \aplha \lim_{x \to a} f(x) \\
-        \lim_{x \to a} (fg)(x) &= \lim_{x \to a} \lim_{x \to a} g(x) \\
-    \end{align*}
-    and (when the limit of $g(x)$ is nonzero)
-    \[
-        \lim_{x \to a} \left( \frac{f}{g} \right) (x) &=
-        \frac{\lim_{x \to a} f(x)}{\lim_{x \to a} g(x)}
-    \]
+    % \textbf{Theorem 3.9} \emph{Squeeze Theorem for Functions} \\
+    % Suppose that $a \in \mathbb{R}$, that $I$ is an open interval which contains $a$,
+    % and that $f, g, h$ are real functions defined everywhere on $I$ except possibly at $a$.
+    % \begin{enumerate}
+    %     \item If $g(x) \leq h(x) \leq f(x) \ \forall x \in I \setminus \{a\}$, and
+    %         \[
+    %             \lim_{x \to a} f(x) = \lim_{x \to a} g(x) = L,
+    %         \]
+    %         then the limit of $h(x)$ exists, as $x \to a$, and
+    %         \[
+    %             \lim_{x \to a} h(x) = L.
+    %         \]
+    %     \item If $|g(x)| \leq M \ \forall x \in I \setminus \{a\}$ and $f(x) \to 0$
+    %         as $x \to a$, then
+    %         \[
+    %             \lim_{x \to a} f(x) g(x) = 0
+    %         \]
+
+    % \end{enumerate}
 
 
-    \textbf{Theorem 3.9} \emph{Squeeze Theorem for Functions} \\
-    Suppose that $a \in \mathbb{R}$, that $I$ is an open interval which contains $a$,
-    and that $f, g, h$ are real functions defined everywhere on $I$ except possibly at $a$.
-    \begin{enumerate}
-        \item If $g(x) \leq h(x) \leq f(x) \ \forall x \in I \setminus \{a\}$, and
-            \[
-                \lim_{x \to a} f(x) = \lim_{x \to a} g(x) = L,
-            \]
-            then the limit of $h(x)$ exists, as $x \to a$, and
-            \[
-                \lim_{x \to a} h(x) = L.
-            \]
-        \item If $|g(x)| \leq M \ \forall x \in I \setminus \{a\}$ and $f(x) \to 0$
-            as $x \to a$, then
-            \[
-                \lim_{x \to a} f(x) g(x) = 0
-            \]
-
-    \end{enumerate}
-
-
-    \textbf{Theorem 3.10} \emph{Comparison Theorem for Functions} \\
-    Suppose that $a \in \mathbb{R}$, that $I$ is an open interval which contains $a$,
-    and that $f, g$ are real functions defined everywhere on $I$ except possibly at $a$.
-    If $f$ and $g$ have a limit as $x$ approaches $a$ and
-    $f(x) \leq g(x) \ \forall x \in I \setminus \{a\}$, then
-    \[
-        \lim_{x \to a} f(x) \leq \lim_{x \to a} g(x)
-    \]
-
-
+    % \textbf{Theorem 3.10} \emph{Comparison Theorem for Functions} \\
+    % Suppose that $a \in \mathbb{R}$, that $I$ is an open interval which contains $a$,
+    % and that $f, g$ are real functions defined everywhere on $I$ except possibly at $a$.
+    % If $f$ and $g$ have a limit as $x$ approaches $a$ and
+    % $f(x) \leq g(x) \ \forall x \in I \setminus \{a\}$, then
+    % \[
+    %     \lim_{x \to a} f(x) \leq \lim_{x \to a} g(x)
+    % \]
 
     \subsection{One-Sided Limits and Limits at Infinity}
-
-
 
     \textbf{Definition 3.12} \emph{Converge from left \& right} \\
     Let $a \in \mathbb{R}$ and $f$ be a real function.
@@ -827,10 +812,7 @@
     exists and equals $L$ if and only if $f(x_n) \to L$ for all sequences $x_n \in I$
     which satisfy $x_n \neq a$ and $x_n \to a$ as $n \to \infty$.
 
-
     \subsection{Continuity}
-
-
 
     \textbf{Definition 3.19} \emph{Continuous} \\
     Let $E$ be a nonempty subset of $\mathbb{R}$ and $f : E \to \mathbb{R}$.
@@ -1907,13 +1889,13 @@ Let $X$ be a metric space.
         is open.
     \item If $\{V_k : k = 1, 2, \ldots, n\}$ is a finite collection of open sets in
         $X$, then
-            $\bigcap_{k=1}^n V_k := \bigcap_{k \in \{1, 2, \ldots, n\}} V_k$
+        $\bigcap_{k=1}^n V_k := \bigcap_{k \in \{1, 2, \ldots, n\}} V_k$
         is open.
     \item If ${\{E_\alpha\}}_{\alpha \in A}$ is any collection of closed sets in $X$,
         then $\bigcap_{\alpha \in A} E_\alpha$ is closed.
     \item If $\{E_k : k = 1, 2, \ldots, n\}$ is a finite collection of closed sets in
         $X$, then
-            $\bigcup_{k=1}^n E_k := \bigcup_{k \in \{1, 2, \ldots, n\}} E_k$
+        $\bigcup_{k=1}^n E_k := \bigcup_{k \in \{1, 2, \ldots, n\}} E_k$
         is closed.
     \item If $V$ is open in $X$ and $E$ is closed in $X$, then $V \setminus E$
         is open and $E \setminus V$ is closed.
@@ -2479,5 +2461,36 @@ has a unique solution $x(t)$ for $|t| < s$.
     % Contraction Theorem 2
     % \includegraphics[width=400]{B_t2a.png} \\
     % \includegraphics[width=400]{B_t2b.png} \\
+\end{multicols}
 
+\begin{multicols}{3}
+    \includegraphics[width=270]{Slides01.png} \\
+    \includegraphics[width=270]{Slides02.png} \\
+    \includegraphics[width=270]{Slides03.png} \\
+    \includegraphics[width=270]{Slides04.png} \\
+    \includegraphics[width=270]{Slides05.png} \\
+    \includegraphics[width=270]{Slides06.png} \\
+    \includegraphics[width=270]{Slides07.png} \\
+    \includegraphics[width=270]{Slides08.png} \\
+    \includegraphics[width=270]{Slides09.png} \\
+    \includegraphics[width=270]{Slides10.png} \\
+    \includegraphics[width=270]{Slides11.png} \\
+    \includegraphics[width=270]{Slides12.png} \\
+    \includegraphics[width=270]{Slides13.png} \\
+    \includegraphics[width=270]{Slides14.png} \\
+    \includegraphics[width=270]{Slides15.png} \\
+    \includegraphics[width=270]{Slides16.png} \\
+    \includegraphics[width=270]{Slides17.png} \\
+    \includegraphics[width=270]{Slides18.png} \\
+    \includegraphics[width=270]{Slides19.png} \\
+    \includegraphics[width=270]{Slides20.png} \\
+    \includegraphics[width=270]{Slides21.png} \\
+    \includegraphics[width=270]{Slides22.png} \\
+    \includegraphics[width=270]{Slides23.png} \\
+    \includegraphics[width=270]{Slides24.png} \\
+    \includegraphics[width=270]{Slides25.png} \\
+    \includegraphics[width=270]{Slides26.png} \\
+    \includegraphics[width=270]{Slides27.png} \\
+    \includegraphics[width=270]{Slides28.png} \\
+\end{multicols}
 \end{document}
